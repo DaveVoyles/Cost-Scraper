@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cost Scraper — Price Changes</title>
+  <link rel="stylesheet" href="lib/tabulator_midnight.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body x-data="changeView()" x-init="boot()">
+
+  <header>
+    <h1>📉 Price changes</h1>
+    <nav>
+      <a href="index.html">Catalogue</a>
+      <a href="changes.html" class="active">Price changes</a>
+      <a href="https://github.com/DaveVoyles/Cost-Scraper" target="_blank" rel="noopener">GitHub ↗</a>
+    </nav>
+    <div class="meta" x-show="changes">
+      <span>Comparing to <strong x-text="changes?.previous_snapshot || '(no prior snapshot)'"></strong></span>
+      <span x-show="dropCount > 0">🟢 <strong x-text="dropCount"></strong> drops</span>
+      <span x-show="riseCount > 0">🔴 <strong x-text="riseCount"></strong> rises</span>
+      <span class="run-time" x-text="'Generated ' + relTime(changes?.generated_at)"></span>
+    </div>
+  </header>
+
+  <section class="filters">
+    <label><input type="checkbox" x-model="dropsOnly" @change="applyFilter()"> Only price drops</label>
+    <label><input type="text" placeholder="Search title…" x-model="search" @input="applyFilter()"></label>
+  </section>
+
+  <section id="grid-wrap"><div id="grid"></div></section>
+
+  <footer>
+    <small>
+      Diff is current snapshot vs the most recent <code>data/history/YYYY-MM-DD.json</code> before today.
+    </small>
+  </footer>
+
+  <script src="lib/alpine.min.js" defer></script>
+  <script src="lib/tabulator.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

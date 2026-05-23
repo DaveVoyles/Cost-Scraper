@@ -1,0 +1,24 @@
+# Secrets — NEVER commit
+*.env
+config.local.json
+secrets*.json
+.env*
+
+# Caches (regeneratable, lots of files)
+pipeline/cache/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local Playnite library dump (machine-specific, may contain unreleased titles)
+docs/data/playnite_games.json
+
+# Local user-tuned alert list (may contain personal target prices/notes)
+pipeline/user_alerts.json

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cost Scraper — PC Game Price Tracker</title>
+  <link rel="stylesheet" href="lib/tabulator_midnight.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body x-data="costScraper()" x-init="boot()">
+
+  <header>
+    <h1>💰 Cost Scraper</h1>
+    <nav>
+      <a href="index.html" class="active">Catalogue</a>
+      <a href="changes.html">Price changes</a>
+      <a href="https://github.com/DaveVoyles/Cost-Scraper" target="_blank" rel="noopener">GitHub ↗</a>
+    </nav>
+    <div class="meta" x-show="meta">
+      <span><strong x-text="meta?.totals?.playnite_titles ?? '…'"></strong> titles</span>
+      <span><strong x-text="meta?.totals?.matched_loaded ?? '…'"></strong> on loaded.com</span>
+      <span><strong x-text="meta?.totals?.matched_itad ?? '…'"></strong> on ITAD</span>
+      <span><strong x-text="meta?.totals?.installed_on_steam ?? '…'"></strong> installed via Steam</span>
+      <span class="alerts" x-show="meta?.totals?.alerts_hit > 0">
+        🔔 <strong x-text="meta?.totals?.alerts_hit"></strong> alert hits
+      </span>
+      <span class="run-time" x-text="'Generated ' + relTime(meta?.generated_at)"></span>
+    </div>
+  </header>
+
+  <section class="filters">
+    <label>
+      <input type="text" placeholder="Search titles, stores, editions…" x-model="search" @input="applyFilter()">
+    </label>
+    <label><input type="checkbox" x-model="hideOwned" @change="applyFilter()"> Hide owned-on-Steam</label>
+    <label><input type="checkbox" x-model="alertsOnly" @change="applyFilter()"> 🔔 Alerts only</label>
+    <label><input type="checkbox" x-model="dealsOnly" @change="applyFilter()"> Discount ≥ 25%</label>
+    <button @click="resetFilters()">Reset</button>
+  </section>
+
+  <section id="grid-wrap">
+    <div id="grid"></div>
+  </section>
+
+  <footer>
+    <small>
+      Local prices in USD. Data refreshed when <code>python pipeline/build_data.py</code> is run.
+      Sources: loaded.com (Algolia), Steam storesearch, IsThereAnyDeal v2.
+    </small>
+  </footer>
+
+  <script src="lib/alpine.min.js" defer></script>
+  <script src="lib/tabulator.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1036 @@
+{
+  "generated_at": "2026-05-23T22:47:42.626178+00:00",
+  "previous_snapshot": null,
+  "changes": [
+    {
+      "title": "Absolum",
+      "price_now": 18.79,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/absolum-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Alaloth - Champions of the Four Kingdoms",
+      "price_now": 28.09,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/alaloth-champions-of-the-four-kingdoms-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Ammo and Oxygen",
+      "price_now": 14.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2549650/",
+      "historical_low": null
+    },
+    {
+      "title": "Au Revoir",
+      "price_now": 4.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3079600/",
+      "historical_low": null
+    },
+    {
+      "title": "Bad Cheese",
+      "price_now": 12.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/bad-cheese-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Barrel Roll",
+      "price_now": 4.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3860590/",
+      "historical_low": null
+    },
+    {
+      "title": "Black Geyser - Couriers of Darkness",
+      "price_now": 29.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/1374930/",
+      "historical_low": null
+    },
+    {
+      "title": "Capcom Fighting Collection 2",
+      "price_now": 24.39,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/capcom-fighting-collection-2-pc-steam-na",
+      "historical_low": null
+    },
+    {
+      "title": "Cleared Hot",
+      "price_now": 14.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/1710820/",
+      "historical_low": null
+    },
+    {
+      "title": "Conscript Director's Cut",
+      "price_now": 2.69,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/conscript-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Conway - Disappearance at Dahlia View",
+      "price_now": 1.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/conway-disappearance-at-dahlia-view-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Crusader Kings III",
+      "price_now": 14.29,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/crusader-kings-iii-3-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Deck of Haunts",
+      "price_now": 8.29,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/deck-of-haunts-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Demeo x Dungeons & Dragons - Battlemarked",
+      "price_now": 29.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3124340/",
+      "historical_low": null
+    },
+    {
+      "title": "Duskpunk",
+      "price_now": 19.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2610880/",
+      "historical_low": null
+    },
+    {
+      "title": "Dust Raiders",
+      "price_now": 15.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2397450/",
+      "historical_low": null
+    },
+    {
+      "title": "Dustwind - Resistance",
+      "price_now": 19.9,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3110370/",
+      "historical_low": null
+    },
+    {
+      "title": "Earthion",
+      "price_now": 16.29,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/earthion-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Europa Universalis V",
+      "price_now": 48.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/europa-universalis-v-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Fear Effect",
+      "price_now": 9.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3504570/",
+      "historical_low": null
+    },
+    {
+      "title": "Formula Retro Racing World Tour",
+      "price_now": 19.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2141040/",
+      "historical_low": null
+    },
+    {
+      "title": "Fragile Reflection",
+      "price_now": 12.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3088670/",
+      "historical_low": null
+    },
+    {
+      "title": "Front Mission 3 - Remake",
+      "price_now": 23.44,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3795900/",
+      "historical_low": null
+    },
+    {
+      "title": "Gatekeeper",
+      "price_now": 2.69,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/gatekeeper-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "GigaBash",
+      "price_now": 11.24,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/1546400/",
+      "historical_low": null
+    },
+    {
+      "title": "Gloomhaven",
+      "price_now": 8.59,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/gloomhaven-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "GRADIUS ORIGINS",
+      "price_now": 18.59,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/gradius-origins-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Hades II",
+      "price_now": 29.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/1145350/",
+      "historical_low": null
+    },
+    {
+      "title": "HELLCARD",
+      "price_now": 13.39,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/hellcard-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "HELLMART",
+      "price_now": 14.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3762550/",
+      "historical_low": null
+    },
+    {
+      "title": "Hollow Knight - Silksong",
+      "price_now": 15.59,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/hollow-knight-silksong-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Hunter's Moon",
+      "price_now": 19.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/1802960/",
+      "historical_low": null
+    },
+    {
+      "title": "I Hate This Place",
+      "price_now": 28.69,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/i-hate-this-place-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "INCISION",
+      "price_now": 14.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/1734680/",
+      "historical_low": null
+    },
+    {
+      "title": "Into the Dead Our Darkest Days",
+      "price_now": 24.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2239710/",
+      "historical_low": null
+    },
+    {
+      "title": "Invincible VS",
+      "price_now": 43.49,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/invincible-vs-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Iron Core - Mech Survivor",
+      "price_now": 6.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3586420/",
+      "historical_low": null
+    },
+    {
+      "title": "Jackal",
+      "price_now": 14.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3124230/",
+      "historical_low": null
+    },
+    {
+      "title": "Keep Driving",
+      "price_now": 12.89,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/keep-driving-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Kingdom Come - Deliverance II",
+      "price_now": 16.89,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/kingdom-come-deliverance-ii-pc-latam-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Legacy of Evil",
+      "price_now": 4.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2657360/",
+      "historical_low": null
+    },
+    {
+      "title": "Legends of Amberland 3",
+      "price_now": 19.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3823520/",
+      "historical_low": null
+    },
+    {
+      "title": "Live Lens Bodycam",
+      "price_now": 12.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3055480/",
+      "historical_low": null
+    },
+    {
+      "title": "Lunar Ascendant",
+      "price_now": 9.74,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2547090/",
+      "historical_low": null
+    },
+    {
+      "title": "Marvel Cosmic Invasion",
+      "price_now": 19.49,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2753970/",
+      "historical_low": null
+    },
+    {
+      "title": "Menace",
+      "price_now": 20.39,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/menace-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Menace from the Deep",
+      "price_now": 16.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2644610/",
+      "historical_low": null
+    },
+    {
+      "title": "Minds Beneath Us",
+      "price_now": 17.89,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/minds-beneath-us-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Monster Train 2",
+      "price_now": 16.69,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/monster-train-2-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Monsters are Coming! Rock & Road",
+      "price_now": 8.09,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/monsters-are-coming-rock-road-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Mortal Kombat Legacy Kollection",
+      "price_now": 49.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3454980/",
+      "historical_low": null
+    },
+    {
+      "title": "Moses & Plato - Last Train to Clawville",
+      "price_now": 19.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2230450/",
+      "historical_low": null
+    },
+    {
+      "title": "Mutant Football League 2",
+      "price_now": 27.09,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/mutant-football-league-2-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Neon Inferno",
+      "price_now": 18.29,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/neon-inferno-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Netherworld Covenant",
+      "price_now": 9.69,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/netherworld-covenant-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "NINJA GAIDEN - Ragebound",
+      "price_now": 24.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2542120/",
+      "historical_low": null
+    },
+    {
+      "title": "Nioh 3",
+      "price_now": 55.09,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/nioh-3-pc-steam-na",
+      "historical_low": null
+    },
+    {
+      "title": "Nobunaga's Ambition Awakening",
+      "price_now": 36.59,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/nobunaga-s-ambition-awakening-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Noobs Are Coming",
+      "price_now": 7.29,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/noobs-are-coming-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Octopus Goulash",
+      "price_now": 12.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2810700/",
+      "historical_low": null
+    },
+    {
+      "title": "Outlaws + Handful of Missions - Remaster",
+      "price_now": 29.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3366780/",
+      "historical_low": null
+    },
+    {
+      "title": "Phantom Fury",
+      "price_now": 16.69,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/phantom-fury-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Platypus Reclayed",
+      "price_now": 14.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2912430/",
+      "historical_low": null
+    },
+    {
+      "title": "Political Arena",
+      "price_now": 14.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/1670920/",
+      "historical_low": null
+    },
+    {
+      "title": "PRAGMATA",
+      "price_now": 40.79,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/pragmata-pc-steam-latam",
+      "historical_low": null
+    },
+    {
+      "title": "Pro Wrestler Story",
+      "price_now": 7.01,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3334710/",
+      "historical_low": null
+    },
+    {
+      "title": "Puzzle Quest Immortal Edition",
+      "price_now": 14.89,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/puzzle-quest-immortal-edition-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Retro Rewind - Video Store Simulator",
+      "price_now": 19.9,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3552140/",
+      "historical_low": null
+    },
+    {
+      "title": "ROUTINE",
+      "price_now": 16.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/routine-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "R-Type Delta HD Boosted",
+      "price_now": 24.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3072620/",
+      "historical_low": null
+    },
+    {
+      "title": "Rue Valley",
+      "price_now": 14.89,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/rue-valley-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Scott Pilgrim EX",
+      "price_now": 27.09,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/scott-pilgrim-ex-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Shadows of Doubt",
+      "price_now": 24.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/986130/",
+      "historical_low": null
+    },
+    {
+      "title": "SHINOBI - Art of Vengeance",
+      "price_now": 14.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/shinobi-art-of-vengeance-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Slay the Spire 2",
+      "price_now": 24.39,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/slay-the-spire-2-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Slots & Daggers",
+      "price_now": 5.59,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3631290/",
+      "historical_low": null
+    },
+    {
+      "title": "Snow Ash",
+      "price_now": 13.89,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/snow-ash-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Star Fire - Eternal Cycle",
+      "price_now": 8.89,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/star-fire-eternal-cycle-pc",
+      "historical_low": null
+    },
+    {
+      "title": "Super World War",
+      "price_now": 19.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/super-world-war-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Tearscape",
+      "price_now": 14.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3216340/",
+      "historical_low": null
+    },
+    {
+      "title": "Terminator - Dark Fate - Defiance",
+      "price_now": 7.29,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/terminator-dark-fate-defiance-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "The Dark Rites of Arkham",
+      "price_now": 14.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3566870/",
+      "historical_low": null
+    },
+    {
+      "title": "The Drifter",
+      "price_now": 18.29,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/the-drifter-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "The Last Case of John Morley",
+      "price_now": 12.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3636620/",
+      "historical_low": null
+    },
+    {
+      "title": "The Last Faith",
+      "price_now": 27.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/1274600/",
+      "historical_low": null
+    },
+    {
+      "title": "The Necromancer's Tale",
+      "price_now": 18.74,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/1315320/",
+      "historical_low": null
+    },
+    {
+      "title": "The Ratline",
+      "price_now": 14.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3756940/",
+      "historical_low": null
+    },
+    {
+      "title": "The Roottrees are Dead",
+      "price_now": 19.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2754380/",
+      "historical_low": null
+    },
+    {
+      "title": "The Succession of Changing Kings",
+      "price_now": 9.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3218880/",
+      "historical_low": null
+    },
+    {
+      "title": "The Temple of Elemental Evil",
+      "price_now": 6.69,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3843520/",
+      "historical_low": null
+    },
+    {
+      "title": "Thronebreaker - The Witcher Tales",
+      "price_now": 4.29,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/thronebreaker-the-witcher-tales-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Titan Quest 2",
+      "price_now": 27.09,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/titan-quest-ii-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Titans of the Past",
+      "price_now": 24.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3098170/",
+      "historical_low": null
+    },
+    {
+      "title": "Tom Clancy's Rainbow Six Vegas 2",
+      "price_now": 9.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/15120/",
+      "historical_low": null
+    },
+    {
+      "title": "Tormented Souls 2",
+      "price_now": 14.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/tormented-souls-2-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Undisputed",
+      "price_now": 19.69,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/undisputed-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Vagrus - The Riven Realms",
+      "price_now": 19.79,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/vagrus-the-riven-realms-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Vital Shell",
+      "price_now": 5.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/3741860/",
+      "historical_low": null
+    },
+    {
+      "title": "Whisper Mountain Outbreak",
+      "price_now": 7.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/whisper-mountain-outbreak-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Whispers of the Eyeless",
+      "price_now": 19.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/2523890/",
+      "historical_low": null
+    },
+    {
+      "title": "Worshippers of Cthulhu",
+      "price_now": 8.49,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/worshippers-of-cthulhu-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Xenonauts 2",
+      "price_now": 18.99,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "loaded.com",
+      "url_now": "https://www.loaded.com/xenonauts-2-pc-steam",
+      "historical_low": null
+    },
+    {
+      "title": "Zombie Diner Simulator",
+      "price_now": 9.74,
+      "price_prev": null,
+      "delta": null,
+      "delta_pct": null,
+      "source_now": "Steam",
+      "url_now": "https://store.steampowered.com/app/4048550/",
+      "historical_low": null
+    }
+  ]
+}

@@ -1,0 +1,5508 @@
+{
+  "generated_at": "2026-05-23T22:47:42.614203+00:00",
+  "currency": "USD",
+  "country": "US",
+  "totals": {
+    "playnite_titles": 109,
+    "matched_loaded": 64,
+    "matched_steam": 101,
+    "matched_itad": 104,
+    "installed_on_steam": 0,
+    "alerts_hit": 0
+  },
+  "games": [
+    {
+      "title": "Absolum",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Absolum PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/absolum-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 18.79,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T18:15:04.326562+00:00"
+      },
+      "steam": {
+        "appid": 1904480,
+        "name": "Absolum",
+        "url": "https://store.steampowered.com/app/1904480/",
+        "price_now": 24.99,
+        "msrp": 24.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "019561e5-7116-70c8-b3a5-17784f3421d8",
+        "slug": null,
+        "title": "Absolum",
+        "url": "https://isthereanydeal.com/game/019561e5-7116-70c8-b3a5-17784f3421d8/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 18.79,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/absolum-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 25,
+        "msrp": 24.99
+      },
+      "discount_pct": 25,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Alaloth - Champions of the Four Kingdoms",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Alaloth: Champions of The Four Kingdoms PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/alaloth-champions-of-the-four-kingdoms-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 28.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 92
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:34.148833+00:00"
+      },
+      "steam": {
+        "appid": 919360,
+        "name": "Alaloth: Champions of The Four Kingdoms",
+        "url": "https://store.steampowered.com/app/919360/",
+        "price_now": 34.99,
+        "msrp": 34.99,
+        "match_score": 96,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-1aff-713c-8727-21fab2a416f7",
+        "slug": null,
+        "title": "Alaloth - Champions of the Four Kingdoms",
+        "url": "https://isthereanydeal.com/game/018d937f-1aff-713c-8727-21fab2a416f7/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 28.09,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/alaloth-champions-of-the-four-kingdoms-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 20,
+        "msrp": 34.99
+      },
+      "discount_pct": 20,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Ammo and Oxygen",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:34.884597+00:00"
+      },
+      "steam": {
+        "appid": 2549650,
+        "name": "Ammo and Oxygen",
+        "url": "https://store.steampowered.com/app/2549650/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-746c-729f-8db9-818d559ad8fe",
+        "slug": null,
+        "title": "Ammo and Oxygen",
+        "url": "https://isthereanydeal.com/game/018d937f-746c-729f-8db9-818d559ad8fe/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2549650/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 14.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "ANNO Mutationem Boss Rogue",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:35.285160+00:00"
+      },
+      "steam": {},
+      "itad": {
+        "game_id": null,
+        "slug": null,
+        "title": "ANNO Mutationem Boss Rogue",
+        "url": null,
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": null,
+        "source": null,
+        "url": null,
+        "detail": null
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Au Revoir",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:34:36.848321+00:00"
+      },
+      "steam": {
+        "appid": 3079600,
+        "name": "Au Revoir",
+        "url": "https://store.steampowered.com/app/3079600/",
+        "price_now": 4.99,
+        "msrp": 4.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01907e97-9660-73d3-aba3-83bc17984dc1",
+        "slug": null,
+        "title": "Au Revoir",
+        "url": "https://isthereanydeal.com/game/01907e97-9660-73d3-aba3-83bc17984dc1/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 4.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3079600/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 4.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Bad Cheese",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Bad Cheese PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/bad-cheese-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 12.99,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:35.974151+00:00"
+      },
+      "steam": {
+        "appid": 3094480,
+        "name": "Bad Cheese",
+        "url": "https://store.steampowered.com/app/3094480/",
+        "price_now": 12.99,
+        "msrp": 12.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0192950a-25b8-70d0-a7a4-de0539dfc10e",
+        "slug": null,
+        "title": "Bad Cheese",
+        "url": "https://isthereanydeal.com/game/0192950a-25b8-70d0-a7a4-de0539dfc10e/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 12.99,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/bad-cheese-pc-steam",
+        "detail": "Standard",
+        "discount_pct": null,
+        "msrp": 12.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Barrel Roll",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T18:15:05.867303+00:00"
+      },
+      "steam": {
+        "appid": 3860590,
+        "name": "Barrel Roll",
+        "url": "https://store.steampowered.com/app/3860590/",
+        "price_now": 4.99,
+        "msrp": 4.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-4391-700d-bb0c-4c0848791ee9",
+        "slug": null,
+        "title": "Barrel Roll",
+        "url": "https://isthereanydeal.com/game/018d937f-4391-700d-bb0c-4c0848791ee9/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 4.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3860590/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 4.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Black Geyser - Couriers of Darkness",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:36.731959+00:00"
+      },
+      "steam": {
+        "appid": 1374930,
+        "name": "Black Geyser: Couriers of Darkness",
+        "url": "https://store.steampowered.com/app/1374930/",
+        "price_now": 29.99,
+        "msrp": 29.99,
+        "match_score": 95,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-5201-7118-a997-43802a45d8d9",
+        "slug": null,
+        "title": "Black Geyser - Couriers of Darkness",
+        "url": "https://isthereanydeal.com/game/018d937f-5201-7118-a997-43802a45d8d9/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 29.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1374930/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 29.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Capcom Fighting Collection 2",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Capcom Fighting Collection 2 PC (North America)",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/capcom-fighting-collection-2-pc-steam-na",
+            "platform": "Steam",
+            "region": "North America",
+            "price": 24.39,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "Capcom Fighting Collection 1 + 2 Bundle PC (North America)",
+            "edition": "Bundle",
+            "url": "https://www.loaded.com/capcom-fighting-collection-1-2-bundle-pc-steam-na",
+            "platform": "Steam",
+            "region": "North America",
+            "price": 33.89,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:34:35.745667+00:00"
+      },
+      "steam": {
+        "appid": 2400430,
+        "name": "Capcom Fighting Collection 2",
+        "url": "https://store.steampowered.com/app/2400430/",
+        "price_now": 39.99,
+        "msrp": 39.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0191944e-da84-717e-9dbb-806aecaad485",
+        "slug": null,
+        "title": "Capcom Fighting Collection 2",
+        "url": "https://isthereanydeal.com/game/0191944e-da84-717e-9dbb-806aecaad485/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 1,
+      "best_price": {
+        "value": 24.39,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/capcom-fighting-collection-2-pc-steam-na",
+        "detail": "Standard",
+        "discount_pct": 39,
+        "msrp": 39.99
+      },
+      "discount_pct": 39,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Cleared Hot",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Cleared Hot PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/cleared-hot-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 27.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:37.411781+00:00"
+      },
+      "steam": {
+        "appid": 1710820,
+        "name": "Cleared Hot",
+        "url": "https://store.steampowered.com/app/1710820/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-6f13-7277-926d-249bbcd28705",
+        "slug": null,
+        "title": "Cleared Hot",
+        "url": "https://isthereanydeal.com/game/018d937f-6f13-7277-926d-249bbcd28705/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1710820/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 14.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Cold Fear",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:34:36.500538+00:00"
+      },
+      "steam": {},
+      "itad": {
+        "game_id": "018d937e-f04e-712c-b437-8cdcc95b357b",
+        "slug": null,
+        "title": "Cold Fear",
+        "url": "https://isthereanydeal.com/game/018d937e-f04e-712c-b437-8cdcc95b357b/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": null,
+        "source": null,
+        "url": null,
+        "detail": null
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Conscript Director's Cut",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "CONSCRIPT PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/conscript-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 2.69,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          },
+          {
+            "product": "CONSCRIPT - Deluxe Edition PC",
+            "edition": "Deluxe",
+            "url": "https://www.loaded.com/conscript-deluxe-edition-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 6.99,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "CONSCRIPT - Officer Edition PC",
+            "edition": "Officer",
+            "url": "https://www.loaded.com/conscript-officer-edition-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 7.99,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:40:06.262086+00:00"
+      },
+      "steam": {
+        "appid": 2936340,
+        "name": "CONSCRIPT \u2013 Trench Raider Pack",
+        "url": "https://store.steampowered.com/app/2936340/",
+        "price_now": 4.99,
+        "msrp": 4.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "019ae50c-e174-73ee-962c-aa56dee1a8a4",
+        "slug": null,
+        "title": "Conscript Director's Cut",
+        "url": "https://isthereanydeal.com/game/019ae50c-e174-73ee-962c-aa56dee1a8a4/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 2.69,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/conscript-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 46,
+        "msrp": 4.99
+      },
+      "discount_pct": 46,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Conway - Disappearance at Dahlia View",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Conway: Disappearance at Dahlia View PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/conway-disappearance-at-dahlia-view-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 1.99,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 92
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:38.861148+00:00"
+      },
+      "steam": {},
+      "itad": {
+        "game_id": "018d937f-51d0-71f8-bae2-77219f574c03",
+        "slug": null,
+        "title": "Conway - Disappearance at Dahlia View",
+        "url": "https://isthereanydeal.com/game/018d937f-51d0-71f8-bae2-77219f574c03/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 1.99,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/conway-disappearance-at-dahlia-view-pc-steam",
+        "detail": "Standard",
+        "discount_pct": null,
+        "msrp": null
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Crusader Kings III",
+      "playnite_platform": "Macintosh; PC (Linux); PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Crusader Kings III PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/crusader-kings-iii-3-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 14.29,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "Crusader Kings III: Wards & Wardens PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-wards-wardens-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 2.29,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III: Friends & Foes PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-friends-foes-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 2.29,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III Creator Pack: West Slavic Attire PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-creator-pack-west-slavic-attire-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 3.59,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "Crusader Kings III: Coronations PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-coronations-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 3.69,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III Content Creator Pack: North African Attire PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-content-creator-pack-north-african-attire-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 3.79,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "Crusader Kings III: Wandering Nobles PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-wandering-nobles-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 4.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III Content Creator Pack: Arctic Attire PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-content-creator-pack-arctic-attire-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 5.09,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "Crusader Kings III: Legacy of Persia PC -  DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-legacy-of-persia-pc-dlc",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 5.79,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III: Northern Lords PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-northern-lords-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 5.99,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III: Fate of Iberia PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-fate-of-iberia-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 6.89,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III: Legends of the Dead PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-legends-of-the-dead-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 9.49,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III: Khans of the Steppe PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-khans-of-the-steppe-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 12.19,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III: Royal Court PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-royal-court-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 13.59,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III: Roads to Power PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-roads-to-power-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 16.29,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III Content Creator Pack: Medieval Monuments PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-content-creator-pack-medieval-monuments-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 17.29,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "Crusader Kings III: Tours & Tournaments PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-tours-tournaments-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 17.49,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III: All Under Heaven PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-all-under-heaven-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 21.79,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III: Chapter IV PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-chapter-iv-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 37.29,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III: Chapter V PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/crusader-kings-iii-chapter-v-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 38.09,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 87
+          },
+          {
+            "product": "Crusader Kings III: Starter Edition PC",
+            "edition": "Starter",
+            "url": "https://www.loaded.com/crusader-kings-iii-starter-edition-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 28.59,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 87
+          }
+        ],
+        "checked_at": "2026-05-23T19:13:42.556633+00:00"
+      },
+      "steam": {
+        "appid": 1158310,
+        "name": "Crusader Kings III",
+        "url": "https://store.steampowered.com/app/1158310/",
+        "price_now": 49.99,
+        "msrp": 49.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-3a2c-706d-9bc5-6eb0d04e3857",
+        "slug": null,
+        "title": "Crusader Kings III",
+        "url": "https://isthereanydeal.com/game/018d937f-3a2c-706d-9bc5-6eb0d04e3857/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 19,
+      "best_price": {
+        "value": 14.29,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/crusader-kings-iii-3-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 71,
+        "msrp": 49.99
+      },
+      "discount_pct": 71,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Deadzone Rogue",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:39.573152+00:00"
+      },
+      "steam": {
+        "appid": 4465790,
+        "name": "Deadzone Rogue 2",
+        "url": "https://store.steampowered.com/app/4465790/",
+        "price_now": null,
+        "msrp": null,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "019207c0-29d6-7304-95e0-59713d5b7ccf",
+        "slug": null,
+        "title": "Deadzone Rogue",
+        "url": "https://isthereanydeal.com/game/019207c0-29d6-7304-95e0-59713d5b7ccf/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": null,
+        "source": null,
+        "url": null,
+        "detail": null
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Deck of Haunts",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Deck of Haunts PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/deck-of-haunts-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 8.29,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:39.914395+00:00"
+      },
+      "steam": {
+        "appid": 3179730,
+        "name": "Deck of Haunts",
+        "url": "https://store.steampowered.com/app/3179730/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01924e06-631d-7310-a63d-0a31b95d62f4",
+        "slug": null,
+        "title": "Deck of Haunts",
+        "url": "https://isthereanydeal.com/game/01924e06-631d-7310-a63d-0a31b95d62f4/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 8.29,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/deck-of-haunts-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 59,
+        "msrp": 19.99
+      },
+      "discount_pct": 59,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Demeo x Dungeons & Dragons - Battlemarked",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:40.667170+00:00"
+      },
+      "steam": {
+        "appid": 3124340,
+        "name": "Demeo x Dungeons & Dragons: Battlemarked",
+        "url": "https://store.steampowered.com/app/3124340/",
+        "price_now": 29.99,
+        "msrp": 29.99,
+        "match_score": 96,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "019736a3-bc52-7136-885a-9fe93efd428b",
+        "slug": null,
+        "title": "Demeo x Dungeons & Dragons - Battlemarked",
+        "url": "https://isthereanydeal.com/game/019736a3-bc52-7136-885a-9fe93efd428b/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 29.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3124340/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 29.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Duskpunk",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:41.745870+00:00"
+      },
+      "steam": {
+        "appid": 2610880,
+        "name": "Duskpunk",
+        "url": "https://store.steampowered.com/app/2610880/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d97ff-16e2-7220-81ce-6c3b0144ba3b",
+        "slug": null,
+        "title": "Duskpunk",
+        "url": "https://isthereanydeal.com/game/018d97ff-16e2-7220-81ce-6c3b0144ba3b/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 19.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2610880/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 19.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Dust Raiders",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:42.109158+00:00"
+      },
+      "steam": {
+        "appid": 2397450,
+        "name": "Dust Raiders",
+        "url": "https://store.steampowered.com/app/2397450/",
+        "price_now": 15.99,
+        "msrp": 15.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-7365-7134-84f8-52f85fd555a2",
+        "slug": null,
+        "title": "Dust Raiders",
+        "url": "https://isthereanydeal.com/game/018d937f-7365-7134-84f8-52f85fd555a2/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 15.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2397450/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 15.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Dustwind - Resistance",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:42.826136+00:00"
+      },
+      "steam": {
+        "appid": 3110370,
+        "name": "Dustwind: Resistance",
+        "url": "https://store.steampowered.com/app/3110370/",
+        "price_now": 19.9,
+        "msrp": 19.9,
+        "match_score": 92,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "019527be-fd30-728f-a30e-2e893b8a7238",
+        "slug": null,
+        "title": "Dustwind - Resistance",
+        "url": "https://isthereanydeal.com/game/019527be-fd30-728f-a30e-2e893b8a7238/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 19.9,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3110370/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 19.9
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Earthion",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Earthion PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/earthion-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 16.29,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:43.505008+00:00"
+      },
+      "steam": {
+        "appid": 3597580,
+        "name": "Earthion",
+        "url": "https://store.steampowered.com/app/3597580/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0196a61e-bc91-70ae-bddb-c88b1130fd63",
+        "slug": null,
+        "title": "Earthion",
+        "url": "https://isthereanydeal.com/game/0196a61e-bc91-70ae-bddb-c88b1130fd63/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 16.29,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/earthion-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 19,
+        "msrp": 19.99
+      },
+      "discount_pct": 19,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Europa Universalis V",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Europa Universalis V PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/europa-universalis-v-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 48.99,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "Europa Universalis V: Premium Edition PC",
+            "edition": "Premium",
+            "url": "https://www.loaded.com/europa-universalis-v-premium-edition-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 76.49,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 94
+          },
+          {
+            "product": "Europa Universalis V: Fate of the Phoenix PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/europa-universalis-v-fate-of-the-phoenix-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 40.59,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 94
+          }
+        ],
+        "checked_at": "2026-05-23T18:15:07.194114+00:00"
+      },
+      "steam": {
+        "appid": 3450310,
+        "name": "Europa Universalis V",
+        "url": "https://store.steampowered.com/app/3450310/",
+        "price_now": 59.99,
+        "msrp": 59.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0196b0b0-b4bd-73c8-a4f0-75f746024337",
+        "slug": null,
+        "title": "Europa Universalis V",
+        "url": "https://isthereanydeal.com/game/0196b0b0-b4bd-73c8-a4f0-75f746024337/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 1,
+      "best_price": {
+        "value": 48.99,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/europa-universalis-v-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 18,
+        "msrp": 59.99
+      },
+      "discount_pct": 18,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Fear Effect",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:44.181890+00:00"
+      },
+      "steam": {
+        "appid": 3504570,
+        "name": "Fear Effect",
+        "url": "https://store.steampowered.com/app/3504570/",
+        "price_now": 9.99,
+        "msrp": 9.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01963a82-eead-720d-b7c1-87bc250b8a0f",
+        "slug": null,
+        "title": "Fear Effect",
+        "url": "https://isthereanydeal.com/game/01963a82-eead-720d-b7c1-87bc250b8a0f/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 9.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3504570/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 9.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Formula Retro Racing World Tour",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:44.939976+00:00"
+      },
+      "steam": {
+        "appid": 2141040,
+        "name": "Formula Retro Racing - World Tour",
+        "url": "https://store.steampowered.com/app/2141040/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-6c87-7012-9c81-027ad5c07e02",
+        "slug": null,
+        "title": "Formula Retro Racing World Tour",
+        "url": "https://isthereanydeal.com/game/018d937f-6c87-7012-9c81-027ad5c07e02/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 19.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2141040/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 19.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Fragile Reflection",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:45.274748+00:00"
+      },
+      "steam": {
+        "appid": 3088670,
+        "name": "Fragile Reflection",
+        "url": "https://store.steampowered.com/app/3088670/",
+        "price_now": 12.99,
+        "msrp": 12.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0190b756-9e9a-72af-b650-be36bfddb5ed",
+        "slug": null,
+        "title": "Fragile Reflection",
+        "url": "https://isthereanydeal.com/game/0190b756-9e9a-72af-b650-be36bfddb5ed/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 12.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3088670/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 12.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Front Mission 3 - Remake",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "FRONT MISSION 3: Remake PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/front-mission-3-remake-pc",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 27.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 90
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:45.953354+00:00"
+      },
+      "steam": {
+        "appid": 3795900,
+        "name": "FRONT MISSION 3: Remake",
+        "url": "https://store.steampowered.com/app/3795900/",
+        "price_now": 23.44,
+        "msrp": 34.99,
+        "match_score": 93,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "019b4f6d-64af-72ed-94e0-76c7ed5ba1cd",
+        "slug": null,
+        "title": "Front Mission 3 - Remake",
+        "url": "https://isthereanydeal.com/game/019b4f6d-64af-72ed-94e0-76c7ed5ba1cd/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 23.44,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3795900/",
+        "detail": "current",
+        "discount_pct": 33,
+        "msrp": 34.99
+      },
+      "discount_pct": 33,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Gatekeeper",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Gatekeeper PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/gatekeeper-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 2.69,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:46.622027+00:00"
+      },
+      "steam": {
+        "appid": 1933650,
+        "name": "The Imperial Gatekeeper",
+        "url": "https://store.steampowered.com/app/1933650/",
+        "price_now": 6.49,
+        "msrp": 12.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d97b9-e5cd-7385-bb71-6f50b1677bac",
+        "slug": null,
+        "title": "Gatekeeper",
+        "url": "https://isthereanydeal.com/game/018d97b9-e5cd-7385-bb71-6f50b1677bac/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 2.69,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/gatekeeper-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 79,
+        "msrp": 12.99
+      },
+      "discount_pct": 79,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "GigaBash",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "GigaBash PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/gigabash-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 18.79,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:47.300809+00:00"
+      },
+      "steam": {
+        "appid": 1546400,
+        "name": "GigaBash",
+        "url": "https://store.steampowered.com/app/1546400/",
+        "price_now": 11.24,
+        "msrp": 24.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-5280-7230-afe0-608b6e01c21d",
+        "slug": null,
+        "title": "GigaBash",
+        "url": "https://isthereanydeal.com/game/018d937f-5280-7230-afe0-608b6e01c21d/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 11.24,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1546400/",
+        "detail": "current",
+        "discount_pct": 55,
+        "msrp": 24.99
+      },
+      "discount_pct": 55,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Gloomhaven",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Gloomhaven PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/gloomhaven-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 8.59,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "Gloomhaven - Jaws of the Lion PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/gloomhaven-jaws-of-the-lion-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 10.59,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:47.987641+00:00"
+      },
+      "steam": {
+        "appid": 780290,
+        "name": "Gloomhaven",
+        "url": "https://store.steampowered.com/app/780290/",
+        "price_now": 9.79,
+        "msrp": 34.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-1f18-7333-9b1d-26f49959b785",
+        "slug": null,
+        "title": "Gloomhaven",
+        "url": "https://isthereanydeal.com/game/018d937f-1f18-7333-9b1d-26f49959b785/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 1,
+      "best_price": {
+        "value": 8.59,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/gloomhaven-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 75,
+        "msrp": 34.99
+      },
+      "discount_pct": 75,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "GRADIUS ORIGINS",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "GRADIUS ORIGINS PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/gradius-origins-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 18.59,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:48.648345+00:00"
+      },
+      "steam": {},
+      "itad": {
+        "game_id": "0195d82e-84b2-706e-9e70-3dbf02823cca",
+        "slug": null,
+        "title": "GRADIUS ORIGINS",
+        "url": "https://isthereanydeal.com/game/0195d82e-84b2-706e-9e70-3dbf02823cca/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 18.59,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/gradius-origins-pc-steam",
+        "detail": "Standard",
+        "discount_pct": null,
+        "msrp": null
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Hades II",
+      "playnite_platform": "Macintosh; PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Hades II PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/hades-ii-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 30.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T18:15:08.832735+00:00"
+      },
+      "steam": {
+        "appid": 1145350,
+        "name": "Hades II",
+        "url": "https://store.steampowered.com/app/1145350/",
+        "price_now": 29.99,
+        "msrp": 29.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-6ee3-738a-b578-ddd7e9a0d24d",
+        "slug": null,
+        "title": "Hades II",
+        "url": "https://isthereanydeal.com/game/018d937f-6ee3-738a-b578-ddd7e9a0d24d/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 29.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1145350/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 29.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "HELLCARD",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "HELLCARD PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/hellcard-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 13.39,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:50.749790+00:00"
+      },
+      "steam": {
+        "appid": 1201540,
+        "name": "HELLCARD",
+        "url": "https://store.steampowered.com/app/1201540/",
+        "price_now": 24.99,
+        "msrp": 24.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-42c4-7000-b596-71a6fb77425f",
+        "slug": null,
+        "title": "HELLCARD",
+        "url": "https://isthereanydeal.com/game/018d937f-42c4-7000-b596-71a6fb77425f/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 13.39,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/hellcard-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 46,
+        "msrp": 24.99
+      },
+      "discount_pct": 46,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "HELLMART",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Hellmart PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/hellmart-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 27.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:51.408823+00:00"
+      },
+      "steam": {
+        "appid": 3762550,
+        "name": "HELLMART",
+        "url": "https://store.steampowered.com/app/3762550/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0197ac48-03e5-72f3-8f1e-be302da14c29",
+        "slug": null,
+        "title": "HELLMART",
+        "url": "https://isthereanydeal.com/game/0197ac48-03e5-72f3-8f1e-be302da14c29/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3762550/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 14.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Hollow Knight - Silksong",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Hollow Knight: Silksong PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/hollow-knight-silksong-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 15.59,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 88
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:52.096645+00:00"
+      },
+      "steam": {
+        "appid": 1030300,
+        "name": "Hollow Knight: Silksong",
+        "url": "https://store.steampowered.com/app/1030300/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 93,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-1e67-708d-989d-b38bde2520fb",
+        "slug": null,
+        "title": "Hollow Knight - Silksong",
+        "url": "https://isthereanydeal.com/game/018d937f-1e67-708d-989d-b38bde2520fb/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 15.59,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/hollow-knight-silksong-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 22,
+        "msrp": 19.99
+      },
+      "discount_pct": 22,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Hunter's Moon",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:52.805711+00:00"
+      },
+      "steam": {
+        "appid": 1802960,
+        "name": "Tree of Savior - Hunter's Moon 2021 OST Collection",
+        "url": "https://store.steampowered.com/app/1802960/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-6bd5-7161-b965-a0b0b7f6e01f",
+        "slug": null,
+        "title": "Hunter's Moon",
+        "url": "https://isthereanydeal.com/game/018d937f-6bd5-7161-b965-a0b0b7f6e01f/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 19.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1802960/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 19.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "I Hate This Place",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "I Hate This Place PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/i-hate-this-place-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 28.69,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:53.490282+00:00"
+      },
+      "steam": {
+        "appid": 2604490,
+        "name": "I Hate This Place",
+        "url": "https://store.steampowered.com/app/2604490/",
+        "price_now": 29.99,
+        "msrp": 29.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0195b4fd-bad4-7054-bf6b-78a2099bdbb1",
+        "slug": null,
+        "title": "I Hate This Place",
+        "url": "https://isthereanydeal.com/game/0195b4fd-bad4-7054-bf6b-78a2099bdbb1/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 28.69,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/i-hate-this-place-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 4,
+        "msrp": 29.99
+      },
+      "discount_pct": 4,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "INCISION",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "INCISION PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/incision-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 20.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:54.240153+00:00"
+      },
+      "steam": {
+        "appid": 1734680,
+        "name": "INCISION",
+        "url": "https://store.steampowered.com/app/1734680/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-64ca-73c0-859b-815a527208d4",
+        "slug": null,
+        "title": "INCISION",
+        "url": "https://isthereanydeal.com/game/018d937f-64ca-73c0-859b-815a527208d4/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1734680/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 14.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Into the Dead Our Darkest Days",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:54.997149+00:00"
+      },
+      "steam": {
+        "appid": 2239710,
+        "name": "Into the Dead: Our Darkest Days",
+        "url": "https://store.steampowered.com/app/2239710/",
+        "price_now": 24.99,
+        "msrp": 24.99,
+        "match_score": 98,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-6ef2-7274-87cd-6aaa3e36db69",
+        "slug": null,
+        "title": "Into the Dead Our Darkest Days",
+        "url": "https://isthereanydeal.com/game/018d937f-6ef2-7274-87cd-6aaa3e36db69/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 24.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2239710/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 24.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Invincible VS",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Invincible VS PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/invincible-vs-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 43.49,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "Invincible VS - Deluxe Edition PC",
+            "edition": "Deluxe",
+            "url": "https://www.loaded.com/invincible-vs-deluxe-edition-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 58.49,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:55.350660+00:00"
+      },
+      "steam": {
+        "appid": 2353060,
+        "name": "Invincible VS",
+        "url": "https://store.steampowered.com/app/2353060/",
+        "price_now": 49.99,
+        "msrp": 49.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "019750ed-01d8-72e0-bfe7-b132a008ea71",
+        "slug": null,
+        "title": "Invincible VS",
+        "url": "https://isthereanydeal.com/game/019750ed-01d8-72e0-bfe7-b132a008ea71/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 43.49,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/invincible-vs-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 13,
+        "msrp": 49.99
+      },
+      "discount_pct": 13,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Iron Core - Mech Survivor",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:56.082143+00:00"
+      },
+      "steam": {
+        "appid": 3586420,
+        "name": "Iron Core: Mech Survivor",
+        "url": "https://store.steampowered.com/app/3586420/",
+        "price_now": 6.99,
+        "msrp": 6.99,
+        "match_score": 93,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0195cc28-090e-70ba-86ec-bd4211c2eef8",
+        "slug": null,
+        "title": "Iron Core - Mech Survivor",
+        "url": "https://isthereanydeal.com/game/0195cc28-090e-70ba-86ec-bd4211c2eef8/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 6.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3586420/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 6.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Jackal",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:56.397217+00:00"
+      },
+      "steam": {
+        "appid": 3124230,
+        "name": "Jackal",
+        "url": "https://store.steampowered.com/app/3124230/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-0ebd-70af-af30-b07245aded4c",
+        "slug": null,
+        "title": "Jackal",
+        "url": "https://isthereanydeal.com/game/018d937f-0ebd-70af-af30-b07245aded4c/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3124230/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 14.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Keep Driving",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Keep Driving PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/keep-driving-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 12.89,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:35:57.063245+00:00"
+      },
+      "steam": {
+        "appid": 2756920,
+        "name": "Keep Driving",
+        "url": "https://store.steampowered.com/app/2756920/",
+        "price_now": 13.49,
+        "msrp": 17.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018f85fe-e303-7158-b3df-1042baf6993b",
+        "slug": null,
+        "title": "Keep Driving",
+        "url": "https://isthereanydeal.com/game/018f85fe-e303-7158-b3df-1042baf6993b/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 12.89,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/keep-driving-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 28,
+        "msrp": 17.99
+      },
+      "discount_pct": 28,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Kingdom Come - Deliverance II",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Kingdom Come: Deliverance II PC (Latin America)",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/kingdom-come-deliverance-ii-pc-latam-steam",
+            "platform": "Steam",
+            "region": "Latin America",
+            "price": 16.89,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 86
+          },
+          {
+            "product": "Kingdom Come: Deliverance II PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/kingdom-come-deliverance-ii-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 23.09,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 90
+          },
+          {
+            "product": "Kingdom Come: Deliverance II Gallant Huntsman's Kit PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/kingdom-come-deliverance-ii-gallant-huntsman-s-kit-pc-dlc",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 2.39,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 90
+          },
+          {
+            "product": "Kingdom Come: Deliverance II Shields of Seasons Passing PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/kingdom-come-deliverance-ii-shields-of-seasons-passing-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 2.59,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 90
+          },
+          {
+            "product": "Kingdom Come: Deliverance II Brushes with Death PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/kingdom-come-deliverance-ii-brushes-with-death-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 3.79,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 90
+          },
+          {
+            "product": "Kingdom Come: Deliverance II The Lion's Crest PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/kingdom-come-deliverance-ii-the-lion-s-crest-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 4.09,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 90
+          },
+          {
+            "product": "Kingdom Come: Deliverance II Mysteria Ecclesiae PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/kingdom-come-deliverance-ii-mysteria-ecclesiae-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 9.49,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 90
+          },
+          {
+            "product": "Kingdom Come: Deliverance II Legacy of the Forge PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/kingdom-come-deliverance-ii-legacy-of-the-forge-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 9.49,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 90
+          },
+          {
+            "product": "Kingdom Come: Deliverance II Expansion Pass PC - DLC (LATAM)",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/kingdom-come-deliverance-ii-expansion-pass-pc-dlc-steam-latam",
+            "platform": "Steam",
+            "region": "Latin America",
+            "price": 11.09,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 90
+          },
+          {
+            "product": "Kingdom Come: Deliverance II Expansion Pass PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/kingdom-come-deliverance-ii-expansion-pass-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 18.39,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 90
+          },
+          {
+            "product": "Kingdom Come: Deliverance II Royal Edition PC (LATAM)",
+            "edition": "Royal",
+            "url": "https://www.loaded.com/kingdom-come-deliverance-ii-royal-edition-pc-steam-latam",
+            "platform": "Steam",
+            "region": "Latin America",
+            "price": 22.19,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 86
+          },
+          {
+            "product": "Kingdom Come: Deliverance II Royal Edition PC",
+            "edition": "Royal",
+            "url": "https://www.loaded.com/kingdom-come-deliverance-ii-royal-edition-pc-steamm",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 29.89,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 86
+          }
+        ],
+        "checked_at": "2026-05-23T18:15:10.094434+00:00"
+      },
+      "steam": {
+        "appid": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "url": "https://store.steampowered.com/app/1771300/",
+        "price_now": 59.99,
+        "msrp": 59.99,
+        "match_score": 94,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018ef26b-9580-704e-a69c-edeee70cfea5",
+        "slug": null,
+        "title": "Kingdom Come - Deliverance II",
+        "url": "https://isthereanydeal.com/game/018ef26b-9580-704e-a69c-edeee70cfea5/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 8,
+      "best_price": {
+        "value": 16.89,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/kingdom-come-deliverance-ii-pc-latam-steam",
+        "detail": "Standard",
+        "discount_pct": 72,
+        "msrp": 59.99
+      },
+      "discount_pct": 72,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Last Epoch Shattered Omens",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:57.816481+00:00"
+      },
+      "steam": {},
+      "itad": {
+        "game_id": null,
+        "slug": null,
+        "title": "Last Epoch Shattered Omens",
+        "url": null,
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": null,
+        "source": null,
+        "url": null,
+        "detail": null
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Legacy of Evil",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:58.488689+00:00"
+      },
+      "steam": {
+        "appid": 2657360,
+        "name": "Legacy Of Evil",
+        "url": "https://store.steampowered.com/app/2657360/",
+        "price_now": 4.99,
+        "msrp": 9.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-7b4d-7328-826b-3b0c60317fd7",
+        "slug": null,
+        "title": "Legacy of Evil",
+        "url": "https://isthereanydeal.com/game/018d937f-7b4d-7328-826b-3b0c60317fd7/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 4.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2657360/",
+        "detail": "current",
+        "discount_pct": 50,
+        "msrp": 9.99
+      },
+      "discount_pct": 50,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Legends of Amberland 3",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:59.223642+00:00"
+      },
+      "steam": {
+        "appid": 3823520,
+        "name": "Legends of Amberland III: The Crimson Tower",
+        "url": "https://store.steampowered.com/app/3823520/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 95,
+        "installed": false
+      },
+      "itad": {
+        "game_id": null,
+        "slug": null,
+        "title": "Legends of Amberland 3",
+        "url": null,
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 19.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3823520/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 19.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Live Lens Bodycam",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:35:59.610264+00:00"
+      },
+      "steam": {
+        "appid": 3055480,
+        "name": "Live Lens Bodycam",
+        "url": "https://store.steampowered.com/app/3055480/",
+        "price_now": 12.99,
+        "msrp": 12.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0193b005-b2df-7017-99cd-fc494ec91fee",
+        "slug": null,
+        "title": "Live Lens Bodycam",
+        "url": "https://isthereanydeal.com/game/0193b005-b2df-7017-99cd-fc494ec91fee/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 12.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3055480/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 12.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Lunar Ascendant",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Lunar Ascendant PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/lunar-ascendant-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 27.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:00.646288+00:00"
+      },
+      "steam": {
+        "appid": 2547090,
+        "name": "Lunar Ascendant",
+        "url": "https://store.steampowered.com/app/2547090/",
+        "price_now": 9.74,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-743a-7360-9bf4-522dd7497a86",
+        "slug": null,
+        "title": "Lunar Ascendant",
+        "url": "https://isthereanydeal.com/game/018d937f-743a-7360-9bf4-522dd7497a86/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 9.74,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2547090/",
+        "detail": "current",
+        "discount_pct": 35,
+        "msrp": 14.99
+      },
+      "discount_pct": 35,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Marvel Cosmic Invasion",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "MARVEL Cosmic Invasion PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/marvel-cosmic-invasion-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 27.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:01.331486+00:00"
+      },
+      "steam": {
+        "appid": 2753970,
+        "name": "MARVEL Cosmic Invasion",
+        "url": "https://store.steampowered.com/app/2753970/",
+        "price_now": 19.49,
+        "msrp": 29.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0195d813-11aa-7145-90e5-0489e17932e6",
+        "slug": null,
+        "title": "Marvel Cosmic Invasion",
+        "url": "https://isthereanydeal.com/game/0195d813-11aa-7145-90e5-0489e17932e6/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 19.49,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2753970/",
+        "detail": "current",
+        "discount_pct": 35,
+        "msrp": 29.99
+      },
+      "discount_pct": 35,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Menace",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "MENACE PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/menace-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 20.39,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:01.999143+00:00"
+      },
+      "steam": {
+        "appid": 2432860,
+        "name": "MENACE",
+        "url": "https://store.steampowered.com/app/2432860/",
+        "price_now": 29.99,
+        "msrp": 39.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-745d-7177-bd14-763e5c014e70",
+        "slug": null,
+        "title": "Menace",
+        "url": "https://isthereanydeal.com/game/018d937f-745d-7177-bd14-763e5c014e70/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 20.39,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/menace-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 49,
+        "msrp": 39.99
+      },
+      "discount_pct": 49,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Menace from the Deep",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:02.706142+00:00"
+      },
+      "steam": {
+        "appid": 2644610,
+        "name": "Menace from the Deep",
+        "url": "https://store.steampowered.com/app/2644610/",
+        "price_now": 16.99,
+        "msrp": 16.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-789d-71ef-add1-c90d4cd3e370",
+        "slug": null,
+        "title": "Menace from the Deep",
+        "url": "https://isthereanydeal.com/game/018d937f-789d-71ef-add1-c90d4cd3e370/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 16.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2644610/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 16.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Minds Beneath Us",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Minds Beneath Us PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/minds-beneath-us-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 17.89,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:03.045629+00:00"
+      },
+      "steam": {
+        "appid": 1610440,
+        "name": "Minds Beneath Us",
+        "url": "https://store.steampowered.com/app/1610440/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d975e-74c9-7108-8165-93dc585a1753",
+        "slug": null,
+        "title": "Minds Beneath Us",
+        "url": "https://isthereanydeal.com/game/018d975e-74c9-7108-8165-93dc585a1753/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 17.89,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/minds-beneath-us-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 11,
+        "msrp": 19.99
+      },
+      "discount_pct": 11,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Monster Train 2",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Monster Train 2 PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/monster-train-2-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 16.69,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "Monster Train 2: Destiny of the Railforged PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/monster-train-2-destiny-of-the-railforged-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 9.69,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 92
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:03.728854+00:00"
+      },
+      "steam": {
+        "appid": 2742830,
+        "name": "Monster Train 2",
+        "url": "https://store.steampowered.com/app/2742830/",
+        "price_now": 24.99,
+        "msrp": 24.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01951ebb-d8a9-71d8-b389-f8de0325be9d",
+        "slug": null,
+        "title": "Monster Train 2",
+        "url": "https://isthereanydeal.com/game/01951ebb-d8a9-71d8-b389-f8de0325be9d/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 1,
+      "best_price": {
+        "value": 16.69,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/monster-train-2-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 33,
+        "msrp": 24.99
+      },
+      "discount_pct": 33,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Monsters are Coming! Rock & Road",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Monsters are Coming! Rock & Road PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/monsters-are-coming-rock-road-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 8.09,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:04.437813+00:00"
+      },
+      "steam": {},
+      "itad": {
+        "game_id": "0197365f-0061-73aa-9254-a2c1ef8fd8e5",
+        "slug": null,
+        "title": "Monsters are Coming! Rock & Road",
+        "url": "https://isthereanydeal.com/game/0197365f-0061-73aa-9254-a2c1ef8fd8e5/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 8.09,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/monsters-are-coming-rock-road-pc-steam",
+        "detail": "Standard",
+        "discount_pct": null,
+        "msrp": null
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Mortal Kombat Legacy Kollection",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Mortal Kombat: Legacy Kollection PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/mortal-kombat-legacy-kollection-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 52.79,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 93
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:05.115522+00:00"
+      },
+      "steam": {
+        "appid": 3454980,
+        "name": "Mortal Kombat: Legacy Kollection",
+        "url": "https://store.steampowered.com/app/3454980/",
+        "price_now": 49.99,
+        "msrp": 49.99,
+        "match_score": 98,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01973d21-1103-73c2-b57d-540c397bd4d3",
+        "slug": null,
+        "title": "Mortal Kombat Legacy Kollection",
+        "url": "https://isthereanydeal.com/game/01973d21-1103-73c2-b57d-540c397bd4d3/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 49.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3454980/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 49.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Moses & Plato - Last Train to Clawville",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:05.869642+00:00"
+      },
+      "steam": {
+        "appid": 2230450,
+        "name": "Moses & Plato - Last Train to Clawville",
+        "url": "https://store.steampowered.com/app/2230450/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-7b0d-7099-b48a-51bcf8f78d17",
+        "slug": null,
+        "title": "Moses & Plato - Last Train to Clawville",
+        "url": "https://isthereanydeal.com/game/018d937f-7b0d-7099-b48a-51bcf8f78d17/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 19.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2230450/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 19.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Mutant Football League 2",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Mutant Football League 2 PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/mutant-football-league-2-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 27.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:06.206164+00:00"
+      },
+      "steam": {
+        "appid": 1657320,
+        "name": "Mutant Football League 2",
+        "url": "https://store.steampowered.com/app/1657320/",
+        "price_now": 29.99,
+        "msrp": 29.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-7b72-7362-ae39-e12df30d362a",
+        "slug": null,
+        "title": "Mutant Football League 2",
+        "url": "https://isthereanydeal.com/game/018d937f-7b72-7362-ae39-e12df30d362a/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 27.09,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/mutant-football-league-2-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 10,
+        "msrp": 29.99
+      },
+      "discount_pct": 10,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Neon Inferno",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Neon Inferno PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/neon-inferno-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 18.29,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:06.899154+00:00"
+      },
+      "steam": {
+        "appid": 2957720,
+        "name": "Neon Inferno",
+        "url": "https://store.steampowered.com/app/2957720/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0191eec0-8a9e-723a-a853-89f8a296870f",
+        "slug": null,
+        "title": "Neon Inferno",
+        "url": "https://isthereanydeal.com/game/0191eec0-8a9e-723a-a853-89f8a296870f/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 18.29,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/neon-inferno-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 9,
+        "msrp": 19.99
+      },
+      "discount_pct": 9,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Netherworld Covenant",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Netherworld Covenant PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/netherworld-covenant-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 9.69,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:07.595676+00:00"
+      },
+      "steam": {
+        "appid": 2735580,
+        "name": "Netherworld Covenant",
+        "url": "https://store.steampowered.com/app/2735580/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018f50c7-e5b9-71be-9689-0ca1a80aad3b",
+        "slug": null,
+        "title": "Netherworld Covenant",
+        "url": "https://isthereanydeal.com/game/018f50c7-e5b9-71be-9689-0ca1a80aad3b/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 9.69,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/netherworld-covenant-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 52,
+        "msrp": 19.99
+      },
+      "discount_pct": 52,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "NINJA GAIDEN - Ragebound",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "NINJA GAIDEN: Ragebound PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/ninja-gaiden-ragebound-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 25.59,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 88
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:08.292825+00:00"
+      },
+      "steam": {
+        "appid": 2542120,
+        "name": "NINJA GAIDEN: Ragebound",
+        "url": "https://store.steampowered.com/app/2542120/",
+        "price_now": 24.99,
+        "msrp": 24.99,
+        "match_score": 93,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0193bd7c-b821-70c5-b2a1-61b760a0deee",
+        "slug": null,
+        "title": "NINJA GAIDEN - Ragebound",
+        "url": "https://isthereanydeal.com/game/0193bd7c-b821-70c5-b2a1-61b760a0deee/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 24.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2542120/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 24.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Nioh 3",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Nioh 3 PC (North America)",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/nioh-3-pc-steam-na",
+            "platform": "Steam",
+            "region": "North America",
+            "price": 55.09,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "Nioh 3 Digital Deluxe Edition PC (North America)",
+            "edition": "Deluxe",
+            "url": "https://www.loaded.com/nioh-3-digital-deluxe-edition-pc-steam-na",
+            "platform": "Steam",
+            "region": "North America",
+            "price": 69.39,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:08.951558+00:00"
+      },
+      "steam": {
+        "appid": 3681010,
+        "name": "Nioh 3",
+        "url": "https://store.steampowered.com/app/3681010/",
+        "price_now": 69.99,
+        "msrp": 69.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01973dc5-7692-728a-b675-5bb399bb6801",
+        "slug": null,
+        "title": "Nioh 3",
+        "url": "https://isthereanydeal.com/game/01973dc5-7692-728a-b675-5bb399bb6801/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 55.09,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/nioh-3-pc-steam-na",
+        "detail": "Standard",
+        "discount_pct": 21,
+        "msrp": 69.99
+      },
+      "discount_pct": 21,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Nobunaga's Ambition Awakening",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "NOBUNAGA'S AMBITION: Awakening PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/nobunaga-s-ambition-awakening-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 36.59,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 93
+          },
+          {
+            "product": "NOBUNAGA'S AMBITION: Awakening Digital Deluxe Edition PC",
+            "edition": "Deluxe",
+            "url": "https://www.loaded.com/nobunagas-ambition-awakening-digital-deluxe-edition-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 54.89,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 81
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:09.638156+00:00"
+      },
+      "steam": {
+        "appid": 1336980,
+        "name": "NOBUNAGA'S AMBITION: Awakening",
+        "url": "https://store.steampowered.com/app/1336980/",
+        "price_now": 59.99,
+        "msrp": 59.99,
+        "match_score": 98,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-7164-7029-a824-7aa31a926343",
+        "slug": null,
+        "title": "Nobunaga's Ambition Awakening",
+        "url": "https://isthereanydeal.com/game/018d937f-7164-7029-a824-7aa31a926343/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 36.59,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/nobunaga-s-ambition-awakening-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 39,
+        "msrp": 59.99
+      },
+      "discount_pct": 39,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Noobs Are Coming",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Noobs Are Coming PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/noobs-are-coming-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 7.29,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:10.332010+00:00"
+      },
+      "steam": {
+        "appid": 2225960,
+        "name": "Noobs Are Coming",
+        "url": "https://store.steampowered.com/app/2225960/",
+        "price_now": 7.99,
+        "msrp": 7.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0194656f-e3e7-729d-8e7c-ebeeacbfe8a6",
+        "slug": null,
+        "title": "Noobs Are Coming",
+        "url": "https://isthereanydeal.com/game/0194656f-e3e7-729d-8e7c-ebeeacbfe8a6/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 7.29,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/noobs-are-coming-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 9,
+        "msrp": 7.99
+      },
+      "discount_pct": 9,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Octopus Goulash",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:11.029691+00:00"
+      },
+      "steam": {
+        "appid": 2810700,
+        "name": "Octopus Goulash",
+        "url": "https://store.steampowered.com/app/2810700/",
+        "price_now": 12.99,
+        "msrp": 12.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018dd223-0700-7263-8664-67ff6d2da263",
+        "slug": null,
+        "title": "Octopus Goulash",
+        "url": "https://isthereanydeal.com/game/018dd223-0700-7263-8664-67ff6d2da263/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 12.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2810700/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 12.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Outlaws + Handful of Missions - Remaster",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:11.391151+00:00"
+      },
+      "steam": {
+        "appid": 3366780,
+        "name": "Outlaws + Handful of Missions: Remaster",
+        "url": "https://store.steampowered.com/app/3366780/",
+        "price_now": 29.99,
+        "msrp": 29.99,
+        "match_score": 96,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0198c36f-a8f5-71e9-930c-087af841667a",
+        "slug": null,
+        "title": "Outlaws + Handful of Missions - Remaster",
+        "url": "https://isthereanydeal.com/game/0198c36f-a8f5-71e9-930c-087af841667a/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 29.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3366780/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 29.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Phantom Fury",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Phantom Fury PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/phantom-fury-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 16.69,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:11.727651+00:00"
+      },
+      "steam": {
+        "appid": 1733240,
+        "name": "Phantom Fury",
+        "url": "https://store.steampowered.com/app/1733240/",
+        "price_now": 24.99,
+        "msrp": 24.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-64cc-72cd-a4b7-b58cf6be8d89",
+        "slug": null,
+        "title": "Phantom Fury",
+        "url": "https://isthereanydeal.com/game/018d937f-64cc-72cd-a4b7-b58cf6be8d89/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 16.69,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/phantom-fury-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 33,
+        "msrp": 24.99
+      },
+      "discount_pct": 33,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Platypus Reclayed",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:12.401812+00:00"
+      },
+      "steam": {
+        "appid": 2912430,
+        "name": "Platypus Reclayed",
+        "url": "https://store.steampowered.com/app/2912430/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018fed6c-0494-7374-9181-cd0a92ac3a26",
+        "slug": null,
+        "title": "Platypus Reclayed",
+        "url": "https://isthereanydeal.com/game/018fed6c-0494-7374-9181-cd0a92ac3a26/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2912430/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 14.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Political Arena",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:13.114650+00:00"
+      },
+      "steam": {
+        "appid": 1670920,
+        "name": "Political Arena",
+        "url": "https://store.steampowered.com/app/1670920/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-69c6-731f-9ebd-c80e3ca519d4",
+        "slug": null,
+        "title": "Political Arena",
+        "url": "https://isthereanydeal.com/game/018d937f-69c6-731f-9ebd-c80e3ca519d4/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1670920/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 14.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "PRAGMATA",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "PRAGMATA PC (LATAM)",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/pragmata-pc-steam-latam",
+            "platform": "Steam",
+            "region": "Latin America",
+            "price": 40.79,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "PRAGMATA PC (North America)",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/pragmata-pc-steam-na",
+            "platform": "Steam",
+            "region": "North America",
+            "price": 50.99,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "PRAGMATA Deluxe Edition PC (LATAM)",
+            "edition": "Deluxe",
+            "url": "https://www.loaded.com/pragmata-deluxe-edition-pc-steam-latam",
+            "platform": "Steam",
+            "region": "Latin America",
+            "price": 47.39,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "PRAGMATA Deluxe Edition PC (North America)",
+            "edition": "Deluxe",
+            "url": "https://www.loaded.com/pragmata-deluxe-edition-pc-steam-na",
+            "platform": "Steam",
+            "region": "North America",
+            "price": 59.19,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:13.457009+00:00"
+      },
+      "steam": {
+        "appid": 3357650,
+        "name": "PRAGMATA",
+        "url": "https://store.steampowered.com/app/3357650/",
+        "price_now": 59.99,
+        "msrp": 59.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01973dd3-e247-712c-aaee-acff181a3175",
+        "slug": null,
+        "title": "PRAGMATA",
+        "url": "https://isthereanydeal.com/game/01973dd3-e247-712c-aaee-acff181a3175/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 40.79,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/pragmata-pc-steam-latam",
+        "detail": "Standard",
+        "discount_pct": 32,
+        "msrp": 59.99
+      },
+      "discount_pct": 32,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Pro Wrestler Story",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:14.193148+00:00"
+      },
+      "steam": {
+        "appid": 3334710,
+        "name": "Pro Wrestler Story",
+        "url": "https://store.steampowered.com/app/3334710/",
+        "price_now": 7.01,
+        "msrp": 8.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0193234d-d574-73ad-b343-8b225aba8ad9",
+        "slug": null,
+        "title": "Pro Wrestler Story",
+        "url": "https://isthereanydeal.com/game/0193234d-d574-73ad-b343-8b225aba8ad9/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 7.01,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3334710/",
+        "detail": "current",
+        "discount_pct": 22,
+        "msrp": 8.99
+      },
+      "discount_pct": 22,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Puzzle Quest Immortal Edition",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Puzzle Quest: Immortal Edition PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/puzzle-quest-immortal-edition-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 14.89,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 93
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:14.529650+00:00"
+      },
+      "steam": {
+        "appid": 3236710,
+        "name": "Puzzle Quest: Immortal Edition",
+        "url": "https://store.steampowered.com/app/3236710/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 98,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01991540-b975-7160-9fff-8d2eac3fd541",
+        "slug": null,
+        "title": "Puzzle Quest Immortal Edition",
+        "url": "https://isthereanydeal.com/game/01991540-b975-7160-9fff-8d2eac3fd541/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.89,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/puzzle-quest-immortal-edition-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 1,
+        "msrp": 14.99
+      },
+      "discount_pct": 1,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Ragnar",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:15.627166+00:00"
+      },
+      "steam": {},
+      "itad": {
+        "game_id": "018d937f-5c5a-70b4-a775-aeffccb6cbbe",
+        "slug": null,
+        "title": "Ragnar",
+        "url": "https://isthereanydeal.com/game/018d937f-5c5a-70b4-a775-aeffccb6cbbe/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": null,
+        "source": null,
+        "url": null,
+        "detail": null
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Retro Rewind - Video Store Simulator",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:16.028152+00:00"
+      },
+      "steam": {
+        "appid": 3552140,
+        "name": "Retro Rewind - Video Store Simulator",
+        "url": "https://store.steampowered.com/app/3552140/",
+        "price_now": 19.9,
+        "msrp": 19.9,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "019779d5-a77f-70d4-aaa0-13d2a1e5ac58",
+        "slug": null,
+        "title": "Retro Rewind - Video Store Simulator",
+        "url": "https://isthereanydeal.com/game/019779d5-a77f-70d4-aaa0-13d2a1e5ac58/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 19.9,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3552140/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 19.9
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "ROUTINE",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "ROUTINE PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/routine-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 16.99,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:16.373236+00:00"
+      },
+      "steam": {
+        "appid": 606160,
+        "name": "ROUTINE",
+        "url": "https://store.steampowered.com/app/606160/",
+        "price_now": 24.99,
+        "msrp": 24.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-1ee4-71f5-8aa8-d51ae4cfaaaf",
+        "slug": null,
+        "title": "ROUTINE",
+        "url": "https://isthereanydeal.com/game/018d937f-1ee4-71f5-8aa8-d51ae4cfaaaf/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 16.99,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/routine-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 32,
+        "msrp": 24.99
+      },
+      "discount_pct": 32,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "R-Type Delta HD Boosted",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:15.251335+00:00"
+      },
+      "steam": {
+        "appid": 3072620,
+        "name": "R-Type Delta: HD Boosted",
+        "url": "https://store.steampowered.com/app/3072620/",
+        "price_now": 24.99,
+        "msrp": 24.99,
+        "match_score": 97,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01976c70-7f22-725a-b66a-6d45db6a3e19",
+        "slug": null,
+        "title": "R-Type Delta HD Boosted",
+        "url": "https://isthereanydeal.com/game/01976c70-7f22-725a-b66a-6d45db6a3e19/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 24.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3072620/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 24.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Rue Valley",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Rue Valley PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/rue-valley-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 14.89,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          },
+          {
+            "product": "Rue Valley - Digital Deluxe Edition PC",
+            "edition": "Deluxe",
+            "url": "https://www.loaded.com/rue-valley-digital-deluxe-edition-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 20.99,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:17.053870+00:00"
+      },
+      "steam": {
+        "appid": 2126190,
+        "name": "Rue Valley",
+        "url": "https://store.steampowered.com/app/2126190/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-6962-714f-9bf7-c750c6ce9365",
+        "slug": null,
+        "title": "Rue Valley",
+        "url": "https://isthereanydeal.com/game/018d937f-6962-714f-9bf7-c750c6ce9365/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.89,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/rue-valley-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 1,
+        "msrp": 14.99
+      },
+      "discount_pct": 1,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Scott Pilgrim EX",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Scott Pilgrim EX PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/scott-pilgrim-ex-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 27.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:17.751411+00:00"
+      },
+      "steam": {
+        "appid": 2640950,
+        "name": "Scott Pilgrim EX",
+        "url": "https://store.steampowered.com/app/2640950/",
+        "price_now": 28.99,
+        "msrp": 28.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01974760-72fd-7352-a1b6-ee8b68ba4105",
+        "slug": null,
+        "title": "Scott Pilgrim EX",
+        "url": "https://isthereanydeal.com/game/01974760-72fd-7352-a1b6-ee8b68ba4105/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 27.09,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/scott-pilgrim-ex-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 7,
+        "msrp": 28.99
+      },
+      "discount_pct": 7,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Shadows of Doubt",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:18.420618+00:00"
+      },
+      "steam": {
+        "appid": 986130,
+        "name": "Shadows of Doubt",
+        "url": "https://store.steampowered.com/app/986130/",
+        "price_now": 24.99,
+        "msrp": 24.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-1b1a-7035-b153-15006d9c9a55",
+        "slug": null,
+        "title": "Shadows of Doubt",
+        "url": "https://isthereanydeal.com/game/018d937f-1b1a-7035-b153-15006d9c9a55/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 24.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/986130/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 24.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "SHINOBI - Art of Vengeance",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "SHINOBI: Art of Vengeance PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/shinobi-art-of-vengeance-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 14.99,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 92
+          },
+          {
+            "product": "SHINOBI: Art of Vengeance Digital Deluxe Edition PC",
+            "edition": "Deluxe",
+            "url": "https://www.loaded.com/shinobi-art-of-vengeance-digital-deluxe-edition-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 24.39,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 76
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:19.107361+00:00"
+      },
+      "steam": {
+        "appid": 2361770,
+        "name": "SHINOBI: Art of Vengeance",
+        "url": "https://store.steampowered.com/app/2361770/",
+        "price_now": 29.99,
+        "msrp": 29.99,
+        "match_score": 94,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0194fc66-d5ff-7130-840a-f998885f2f1c",
+        "slug": null,
+        "title": "SHINOBI - Art of Vengeance",
+        "url": "https://isthereanydeal.com/game/0194fc66-d5ff-7130-840a-f998885f2f1c/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.99,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/shinobi-art-of-vengeance-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 50,
+        "msrp": 29.99
+      },
+      "discount_pct": 50,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Slay the Spire 2",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Slay the Spire 2 PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/slay-the-spire-2-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 24.39,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:20.454135+00:00"
+      },
+      "steam": {
+        "appid": 2868840,
+        "name": "Slay the Spire 2",
+        "url": "https://store.steampowered.com/app/2868840/",
+        "price_now": 24.99,
+        "msrp": 24.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018ec8ff-e01c-70b6-bf65-5b184f82f859",
+        "slug": null,
+        "title": "Slay the Spire 2",
+        "url": "https://isthereanydeal.com/game/018ec8ff-e01c-70b6-bf65-5b184f82f859/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 24.39,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/slay-the-spire-2-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 2,
+        "msrp": 24.99
+      },
+      "discount_pct": 2,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Slots & Daggers",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Slots & Daggers PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/slots-daggers-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 27.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:21.126918+00:00"
+      },
+      "steam": {
+        "appid": 3631290,
+        "name": "Slots & Daggers",
+        "url": "https://store.steampowered.com/app/3631290/",
+        "price_now": 5.59,
+        "msrp": 7.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01983d6f-0d64-7243-9444-7a7ff1be819c",
+        "slug": null,
+        "title": "Slots & Daggers",
+        "url": "https://isthereanydeal.com/game/01983d6f-0d64-7243-9444-7a7ff1be819c/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 5.59,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3631290/",
+        "detail": "current",
+        "discount_pct": 30,
+        "msrp": 7.99
+      },
+      "discount_pct": 30,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Snow Ash",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Snow Ash PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/snow-ash-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 13.89,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:21.796849+00:00"
+      },
+      "steam": {
+        "appid": 3367030,
+        "name": "Snow Ash",
+        "url": "https://store.steampowered.com/app/3367030/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0198eeba-21eb-72e9-ba10-5e2941b92ea3",
+        "slug": null,
+        "title": "Snow Ash",
+        "url": "https://isthereanydeal.com/game/0198eeba-21eb-72e9-ba10-5e2941b92ea3/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 13.89,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/snow-ash-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 7,
+        "msrp": 14.99
+      },
+      "discount_pct": 7,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Star Fire - Eternal Cycle",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Star Fire: Eternal Cycle PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/star-fire-eternal-cycle-pc",
+            "platform": "",
+            "region": "",
+            "price": 8.89,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 88
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:22.469137+00:00"
+      },
+      "steam": {
+        "appid": 3067890,
+        "name": "Star Fire: Eternal Cycle",
+        "url": "https://store.steampowered.com/app/3067890/",
+        "price_now": 11.04,
+        "msrp": 16.99,
+        "match_score": 93,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "019746b5-a04f-7226-92f0-19dcb403858b",
+        "slug": null,
+        "title": "Star Fire - Eternal Cycle",
+        "url": "https://isthereanydeal.com/game/019746b5-a04f-7226-92f0-19dcb403858b/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 8.89,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/star-fire-eternal-cycle-pc",
+        "detail": "Standard",
+        "discount_pct": 48,
+        "msrp": 16.99
+      },
+      "discount_pct": 48,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Super World War",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Super World War PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/super-world-war-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 19.99,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:23.168734+00:00"
+      },
+      "steam": {
+        "appid": 3473580,
+        "name": "Super World War",
+        "url": "https://store.steampowered.com/app/3473580/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01970ce7-8d0b-711f-9f8c-939e387d6f70",
+        "slug": null,
+        "title": "Super World War",
+        "url": "https://isthereanydeal.com/game/01970ce7-8d0b-711f-9f8c-939e387d6f70/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 19.99,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/super-world-war-pc-steam",
+        "detail": "Standard",
+        "discount_pct": null,
+        "msrp": 19.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Tearscape",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:23.846657+00:00"
+      },
+      "steam": {
+        "appid": 3216340,
+        "name": "Tearscape",
+        "url": "https://store.steampowered.com/app/3216340/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0191daa0-40b0-70e2-b852-351d07971491",
+        "slug": null,
+        "title": "Tearscape",
+        "url": "https://isthereanydeal.com/game/0191daa0-40b0-70e2-b852-351d07971491/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3216340/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 14.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Terminator - Dark Fate - Defiance",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Terminator: Dark Fate - Defiance PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/terminator-dark-fate-defiance-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 7.29,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 93
+          },
+          {
+            "product": "Terminator: Dark Fate - Defiance: We are Legion PC DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/terminator-dark-fate-defiance-we-are-legion-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 7.69,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 72
+          },
+          {
+            "product": "Terminator: Dark Fate - Defiance: Uprising PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/terminator-dark-fate-defiance-uprising-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 7.89,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 77
+          },
+          {
+            "product": "Terminator: Dark Fate - Defiance: Evolution PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/terminator-dark-fate-defiance-evolution-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 27.19,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 76
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:24.541962+00:00"
+      },
+      "steam": {
+        "appid": 1839950,
+        "name": "Terminator: Dark Fate - Defiance",
+        "url": "https://store.steampowered.com/app/1839950/",
+        "price_now": 39.99,
+        "msrp": 39.99,
+        "match_score": 98,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-5b0b-70c6-a501-e6d089d0f7f4",
+        "slug": null,
+        "title": "Terminator - Dark Fate - Defiance",
+        "url": "https://isthereanydeal.com/game/018d937f-5b0b-70c6-a501-e6d089d0f7f4/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 3,
+      "best_price": {
+        "value": 7.29,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/terminator-dark-fate-defiance-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 82,
+        "msrp": 39.99
+      },
+      "discount_pct": 82,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "The Dark Rites of Arkham",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:25.274161+00:00"
+      },
+      "steam": {
+        "appid": 3566870,
+        "name": "The Dark Rites of Arkham",
+        "url": "https://store.steampowered.com/app/3566870/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0195f759-5b6b-73b4-9773-e5d7298720e2",
+        "slug": null,
+        "title": "The Dark Rites of Arkham",
+        "url": "https://isthereanydeal.com/game/0195f759-5b6b-73b4-9773-e5d7298720e2/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3566870/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 14.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "The Drifter",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "The Drifter PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/the-drifter-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 18.29,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:25.598263+00:00"
+      },
+      "steam": {
+        "appid": 1170570,
+        "name": "The Drifter",
+        "url": "https://store.steampowered.com/app/1170570/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d958a-a249-734c-bcda-9105f30c9e94",
+        "slug": null,
+        "title": "The Drifter",
+        "url": "https://isthereanydeal.com/game/018d958a-a249-734c-bcda-9105f30c9e94/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 18.29,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/the-drifter-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 9,
+        "msrp": 19.99
+      },
+      "discount_pct": 9,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "The Last Case of John Morley",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "The Last Case of John Morley PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/the-last-case-of-john-morley-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 41.99,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:26.294938+00:00"
+      },
+      "steam": {
+        "appid": 3636620,
+        "name": "The Last Case of John Morley",
+        "url": "https://store.steampowered.com/app/3636620/",
+        "price_now": 12.99,
+        "msrp": 12.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01993529-5fde-7118-b550-3b9c99bffdc6",
+        "slug": null,
+        "title": "The Last Case of John Morley",
+        "url": "https://isthereanydeal.com/game/01993529-5fde-7118-b550-3b9c99bffdc6/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 12.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3636620/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 12.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "The Last Faith",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:26.973651+00:00"
+      },
+      "steam": {
+        "appid": 1274600,
+        "name": "The Last Faith",
+        "url": "https://store.steampowered.com/app/1274600/",
+        "price_now": 27.99,
+        "msrp": 27.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-437e-724c-99dd-4fd0fe9f461a",
+        "slug": null,
+        "title": "The Last Faith",
+        "url": "https://isthereanydeal.com/game/018d937f-437e-724c-99dd-4fd0fe9f461a/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 27.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1274600/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 27.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "The Necromancer's Tale",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "The Necromancer's Tale PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/the-necromancer-s-tale-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 22.79,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:27.669657+00:00"
+      },
+      "steam": {
+        "appid": 1315320,
+        "name": "The Necromancer's Tale",
+        "url": "https://store.steampowered.com/app/1315320/",
+        "price_now": 18.74,
+        "msrp": 24.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-45d7-7332-9b95-616d46f8057e",
+        "slug": null,
+        "title": "The Necromancer's Tale",
+        "url": "https://isthereanydeal.com/game/018d937f-45d7-7332-9b95-616d46f8057e/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 18.74,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1315320/",
+        "detail": "current",
+        "discount_pct": 25,
+        "msrp": 24.99
+      },
+      "discount_pct": 25,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "The Ratline",
+      "playnite_platform": "Macintosh; PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:28.387696+00:00"
+      },
+      "steam": {
+        "appid": 3756940,
+        "name": "The Ratline",
+        "url": "https://store.steampowered.com/app/3756940/",
+        "price_now": 14.99,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "019798dc-d4d5-71bc-be03-070754edcd2c",
+        "slug": null,
+        "title": "The Ratline",
+        "url": "https://isthereanydeal.com/game/019798dc-d4d5-71bc-be03-070754edcd2c/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3756940/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 14.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "The Roottrees are Dead",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:28.771149+00:00"
+      },
+      "steam": {
+        "appid": 2754380,
+        "name": "The Roottrees are Dead",
+        "url": "https://store.steampowered.com/app/2754380/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018dfbc3-c1e8-7140-919b-0821c668f972",
+        "slug": null,
+        "title": "The Roottrees are Dead",
+        "url": "https://isthereanydeal.com/game/018dfbc3-c1e8-7140-919b-0821c668f972/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 19.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2754380/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 19.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "The Succession of Changing Kings",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:29.179466+00:00"
+      },
+      "steam": {
+        "appid": 3218880,
+        "name": "The Succession of Changing Kings",
+        "url": "https://store.steampowered.com/app/3218880/",
+        "price_now": 9.99,
+        "msrp": 9.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0192512e-19bb-72dd-9d4f-77d607222503",
+        "slug": null,
+        "title": "The Succession of Changing Kings",
+        "url": "https://isthereanydeal.com/game/0192512e-19bb-72dd-9d4f-77d607222503/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 9.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3218880/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 9.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "The Temple of Elemental Evil",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:29.565402+00:00"
+      },
+      "steam": {
+        "appid": 3843520,
+        "name": "The Temple of Elemental Evil",
+        "url": "https://store.steampowered.com/app/3843520/",
+        "price_now": 6.69,
+        "msrp": 9.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d958a-2616-7360-acd0-8c3c42b72330",
+        "slug": null,
+        "title": "The Temple of Elemental Evil",
+        "url": "https://isthereanydeal.com/game/018d958a-2616-7360-acd0-8c3c42b72330/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 6.69,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3843520/",
+        "detail": "current",
+        "discount_pct": 33,
+        "msrp": 9.99
+      },
+      "discount_pct": 33,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Thronebreaker - The Witcher Tales",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Thronebreaker: The Witcher Tales PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/thronebreaker-the-witcher-tales-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 4.29,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 94
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:31.253145+00:00"
+      },
+      "steam": {
+        "appid": 973760,
+        "name": "Thronebreaker: The Witcher Tales",
+        "url": "https://store.steampowered.com/app/973760/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 95,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-1e7d-701d-838a-073a4af232c9",
+        "slug": null,
+        "title": "Thronebreaker - The Witcher Tales",
+        "url": "https://isthereanydeal.com/game/018d937f-1e7d-701d-838a-073a4af232c9/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 4.29,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/thronebreaker-the-witcher-tales-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 79,
+        "msrp": 19.99
+      },
+      "discount_pct": 79,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Titan Quest 2",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Titan Quest II PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/titan-quest-ii-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 27.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 91
+          }
+        ],
+        "checked_at": "2026-05-23T18:15:13.117442+00:00"
+      },
+      "steam": {
+        "appid": 1154030,
+        "name": "Titan Quest II",
+        "url": "https://store.steampowered.com/app/1154030/",
+        "price_now": 34.99,
+        "msrp": 34.99,
+        "match_score": 91,
+        "installed": false
+      },
+      "itad": {
+        "game_id": null,
+        "slug": null,
+        "title": "Titan Quest 2",
+        "url": null,
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 27.09,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/titan-quest-ii-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 23,
+        "msrp": 34.99
+      },
+      "discount_pct": 23,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Titans of the Past",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:31.988651+00:00"
+      },
+      "steam": {
+        "appid": 3098170,
+        "name": "Titans of the Past",
+        "url": "https://store.steampowered.com/app/3098170/",
+        "price_now": 24.99,
+        "msrp": 24.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "01930c4f-a214-7331-9624-5f742d26de0f",
+        "slug": null,
+        "title": "Titans of the Past",
+        "url": "https://isthereanydeal.com/game/01930c4f-a214-7331-9624-5f742d26de0f/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 24.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3098170/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 24.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Tom Clancy's Rainbow Six Vegas 2",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Tom Clancys Rainbow Six Vegas 2 (PC)",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/tom-clancys-rainbow-six-vegas-2-pc-cd-key-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 14.89,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 91
+          }
+        ],
+        "checked_at": "2026-05-23T18:15:13.929942+00:00"
+      },
+      "steam": {
+        "appid": 15120,
+        "name": "Tom Clancy's Rainbow Six\u00ae Vegas 2",
+        "url": "https://store.steampowered.com/app/15120/",
+        "price_now": 9.99,
+        "msrp": 9.99,
+        "match_score": 98,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937e-f54c-7379-a57f-9ab6c840b0cd",
+        "slug": null,
+        "title": "Tom Clancy's Rainbow Six Vegas 2",
+        "url": "https://isthereanydeal.com/game/018d937e-f54c-7379-a57f-9ab6c840b0cd/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 9.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/15120/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 9.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Tormented Souls 2",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Tormented Souls 2 PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/tormented-souls-2-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 14.99,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:32.325706+00:00"
+      },
+      "steam": {
+        "appid": 2464280,
+        "name": "Tormented Souls 2",
+        "url": "https://store.steampowered.com/app/2464280/",
+        "price_now": 29.99,
+        "msrp": 29.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-7469-73b3-bed8-6a5f16ca630b",
+        "slug": null,
+        "title": "Tormented Souls 2",
+        "url": "https://isthereanydeal.com/game/018d937f-7469-73b3-bed8-6a5f16ca630b/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 14.99,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/tormented-souls-2-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 50,
+        "msrp": 29.99
+      },
+      "discount_pct": 50,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Undisputed",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Undisputed PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/undisputed-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 19.69,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:33.006222+00:00"
+      },
+      "steam": {
+        "appid": 1451190,
+        "name": "Undisputed",
+        "url": "https://store.steampowered.com/app/1451190/",
+        "price_now": 49.99,
+        "msrp": 49.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-69a8-7043-88b4-798b05e6ce7a",
+        "slug": null,
+        "title": "Undisputed",
+        "url": "https://isthereanydeal.com/game/018d937f-69a8-7043-88b4-798b05e6ce7a/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 19.69,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/undisputed-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 61,
+        "msrp": 49.99
+      },
+      "discount_pct": 61,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Vagrus - The Riven Realms",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Vagrus - The Riven Realms PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/vagrus-the-riven-realms-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 19.79,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          },
+          {
+            "product": "Vagrus - The Riven Realms: At the Heart of Ruin PC - DLC",
+            "edition": "DLC",
+            "url": "https://www.loaded.com/vagrus-the-riven-realms-at-the-heart-of-ruin-pc-dlc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 27.09,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 83
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:33.682361+00:00"
+      },
+      "steam": {
+        "appid": 909660,
+        "name": "Vagrus - The Riven Realms",
+        "url": "https://store.steampowered.com/app/909660/",
+        "price_now": 29.99,
+        "msrp": 29.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-012d-71fb-85a9-d52a4908f364",
+        "slug": null,
+        "title": "Vagrus - The Riven Realms",
+        "url": "https://isthereanydeal.com/game/018d937f-012d-71fb-85a9-d52a4908f364/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 1,
+      "best_price": {
+        "value": 19.79,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/vagrus-the-riven-realms-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 34,
+        "msrp": 29.99
+      },
+      "discount_pct": 34,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Vampiress - Eternal Duet",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:34.445140+00:00"
+      },
+      "steam": {},
+      "itad": {
+        "game_id": null,
+        "slug": null,
+        "title": "Vampiress - Eternal Duet",
+        "url": null,
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": null,
+        "source": null,
+        "url": null,
+        "detail": null
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Vital Shell",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:34.796641+00:00"
+      },
+      "steam": {
+        "appid": 3741860,
+        "name": "Vital Shell",
+        "url": "https://store.steampowered.com/app/3741860/",
+        "price_now": 5.99,
+        "msrp": 5.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0197379a-d58a-730c-9ad6-6254854ee865",
+        "slug": null,
+        "title": "Vital Shell",
+        "url": "https://isthereanydeal.com/game/0197379a-d58a-730c-9ad6-6254854ee865/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 5.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3741860/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 5.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Whisper Mountain Outbreak",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Whisper Mountain Outbreak PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/whisper-mountain-outbreak-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 7.99,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:35.134867+00:00"
+      },
+      "steam": {
+        "appid": 1953230,
+        "name": "Whisper Mountain Outbreak",
+        "url": "https://store.steampowered.com/app/1953230/",
+        "price_now": 7.99,
+        "msrp": 7.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-6ee9-706e-b845-f7a76a5f1707",
+        "slug": null,
+        "title": "Whisper Mountain Outbreak",
+        "url": "https://isthereanydeal.com/game/018d937f-6ee9-706e-b845-f7a76a5f1707/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 7.99,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/whisper-mountain-outbreak-pc-steam",
+        "detail": "Standard",
+        "discount_pct": null,
+        "msrp": 7.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Whispers of the Eyeless",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:35.860131+00:00"
+      },
+      "steam": {
+        "appid": 2523890,
+        "name": "Whispers of the Eyeless",
+        "url": "https://store.steampowered.com/app/2523890/",
+        "price_now": 19.99,
+        "msrp": 19.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018f16ca-98da-704f-9c58-9dbee6ad9df8",
+        "slug": null,
+        "title": "Whispers of the Eyeless",
+        "url": "https://isthereanydeal.com/game/018f16ca-98da-704f-9c58-9dbee6ad9df8/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 19.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2523890/",
+        "detail": "current",
+        "discount_pct": null,
+        "msrp": 19.99
+      },
+      "discount_pct": null,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Worshippers of Cthulhu",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Worshippers of Cthulhu PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/worshippers-of-cthulhu-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 8.49,
+            "msrp": null,
+            "in_stock": false,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:36.184811+00:00"
+      },
+      "steam": {
+        "appid": 2807150,
+        "name": "Worshippers of Cthulhu",
+        "url": "https://store.steampowered.com/app/2807150/",
+        "price_now": 24.99,
+        "msrp": 24.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018e61f7-61a7-719b-ae98-23d203b643d0",
+        "slug": null,
+        "title": "Worshippers of Cthulhu",
+        "url": "https://isthereanydeal.com/game/018e61f7-61a7-719b-ae98-23d203b643d0/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 8.49,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/worshippers-of-cthulhu-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 66,
+        "msrp": 24.99
+      },
+      "discount_pct": 66,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Xenonauts 2",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [
+          {
+            "product": "Xenonauts 2 PC",
+            "edition": "Standard",
+            "url": "https://www.loaded.com/xenonauts-2-pc-steam",
+            "platform": "Steam",
+            "region": "Worldwide",
+            "price": 18.99,
+            "msrp": null,
+            "in_stock": true,
+            "match_score": 100
+          }
+        ],
+        "checked_at": "2026-05-23T17:36:36.894843+00:00"
+      },
+      "steam": {
+        "appid": 538030,
+        "name": "Xenonauts 2",
+        "url": "https://store.steampowered.com/app/538030/",
+        "price_now": 25.99,
+        "msrp": 39.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "018d937f-309b-7383-bdfd-4f95a8566683",
+        "slug": null,
+        "title": "Xenonauts 2",
+        "url": "https://isthereanydeal.com/game/018d937f-309b-7383-bdfd-4f95a8566683/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 18.99,
+        "source": "loaded.com",
+        "url": "https://www.loaded.com/xenonauts-2-pc-steam",
+        "detail": "Standard",
+        "discount_pct": 53,
+        "msrp": 39.99
+      },
+      "discount_pct": 53,
+      "alert_hit": false,
+      "alert_target": null
+    },
+    {
+      "title": "Zombie Diner Simulator",
+      "playnite_platform": "PC (Windows)",
+      "playnite_source": "Folder Auto Import",
+      "playnite_installed": true,
+      "loaded": {
+        "editions": [],
+        "checked_at": "2026-05-23T17:36:38.311044+00:00"
+      },
+      "steam": {
+        "appid": 4048550,
+        "name": "Zombie Diner Simulator \ud83e\udd69 \ud83d\udc80",
+        "url": "https://store.steampowered.com/app/4048550/",
+        "price_now": 9.74,
+        "msrp": 14.99,
+        "match_score": 100,
+        "installed": false
+      },
+      "itad": {
+        "game_id": "0199e750-6f4b-715e-a94d-84c4b327fcc8",
+        "slug": null,
+        "title": "Zombie Diner Simulator",
+        "url": "https://isthereanydeal.com/game/0199e750-6f4b-715e-a94d-84c4b327fcc8/info/",
+        "best_now": null,
+        "historical_low": null
+      },
+      "dlc_count": 0,
+      "best_price": {
+        "value": 9.74,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/4048550/",
+        "detail": "current",
+        "discount_pct": 35,
+        "msrp": 14.99
+      },
+      "discount_pct": 35,
+      "alert_hit": false,
+      "alert_target": null
+    }
+  ]
+}

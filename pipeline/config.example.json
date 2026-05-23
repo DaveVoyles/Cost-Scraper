@@ -1,0 +1,12 @@
+{
+  "_comment": "Copy this file to config.local.json and fill in your values. config.local.json is gitignored.",
+
+  "itad_app_id": "PASTE_YOUR_ITAD_APP_ID_HERE",
+  "itad_client_secret": "PASTE_YOUR_ITAD_CLIENT_SECRET_HERE",
+
+  "playnite_db_dir": null,
+  "steam_root": null,
+
+  "_playnite_db_dir_help": "Path to Playnite's library folder. Default null -> use %APPDATA%\\Playnite\\library.",
+  "_steam_root_help": "Path to Steam install root (contains steamapps\\). Default null -> auto-detect from registry, falling back to common install dirs."
+}
