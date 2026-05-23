@@ -33,8 +33,20 @@ OVERRIDE_NOT_FOUND = {
 
 
 def _pick_best_loaded_edition(eds: list[dict]):
-    """Cheapest full-game edition among loaded.com results, if any."""
-    full = [e for e in eds if is_full_game(e["edition"]) and e["price"] is not None]
+    """Cheapest in-stock full-game edition among loaded.com results, if any.
+
+    Out-of-stock listings (``in_stock is False``) are excluded so the "best
+    price" column never advertises something the user can't actually buy.
+    Editions with unknown stock (``None``) are kept eligible — loaded.com
+    occasionally omits the field and we'd rather show a maybe-buyable price
+    than nothing.
+    """
+    full = [
+        e for e in eds
+        if is_full_game(e["edition"])
+        and e["price"] is not None
+        and e.get("in_stock") is not False
+    ]
     if not full:
         return None
     full.sort(key=lambda e: e["price"])

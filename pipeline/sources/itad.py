@@ -12,7 +12,9 @@ All responses cached on disk by call signature so reruns are free.
 from __future__ import annotations
 import hashlib
 import json
+import re
 import time
+import unicodedata
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
@@ -21,6 +23,7 @@ from typing import Optional
 import requests
 
 BASE = "https://api.isthereanydeal.com"
+WEB_BASE = "https://isthereanydeal.com"
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
@@ -77,6 +80,7 @@ class ITADClient:
         self._session = requests.Session()
         self._session.headers["User-Agent"] = UA
         self._session.headers["Content-Type"] = "application/json"
+        self._slug_cache = self._load_slug_cache()
 
     def _cache_path(self, key: str) -> Path:
         slug = hashlib.md5(key.encode()).hexdigest()[:16]
@@ -131,6 +135,125 @@ class ITADClient:
             if gid:
                 out[title] = gid
         return out
+
+    def info(self, game_ids: list[str]) -> dict[str, dict]:
+        """DEPRECATED — /games/info/v2 requires an API key we don't have.
+
+        Kept as a no-op stub so older callers don't crash. Use
+        ``resolve_slug()`` for URL-building instead.
+        """
+        return {}
+
+    # ----- slug resolution (no-API-key, HTML probe) -----
+    #
+    # ITAD's SPA only renders game pages for slug-based URLs. The slug-resolving
+    # API endpoints (/games/info/v2, /games/lookup/v1, /games/search/v1) all
+    # require a paid API key. As a workaround we slugify the title locally,
+    # fetch /game/<slug>/info/, and verify it actually rendered the right game
+    # by looking for an ``og:title`` meta tag (the broken UUID/missing-slug
+    # variant returns a generic ~12KB SPA shell with no ``og:`` metadata).
+    #
+    # Results are cached in ``slug_cache.json`` so subsequent runs make zero
+    # network calls. The cache is keyed by game_id.
+    _SLUG_CACHE_NAME = "slug_cache.json"
+
+    def _slug_cache_path(self) -> Path:
+        return self.cache_dir / self._SLUG_CACHE_NAME
+
+    def _load_slug_cache(self) -> dict:
+        p = self._slug_cache_path()
+        if not p.exists():
+            return {}
+        try:
+            return json.loads(p.read_text(encoding="utf-8"))
+        except Exception:
+            return {}
+
+    def _save_slug_cache(self, cache: dict) -> None:
+        self._slug_cache_path().write_text(
+            json.dumps(cache, indent=2, sort_keys=True), encoding="utf-8"
+        )
+
+    @staticmethod
+    def _slug_candidates(title: str) -> list[str]:
+        """Generate ITAD-style slug candidates for a title, in priority order."""
+        if not title:
+            return []
+        # Normalize unicode -> ascii, strip accents.
+        norm = unicodedata.normalize("NFKD", title)
+        norm = norm.encode("ascii", "ignore").decode("ascii")
+        norm = norm.lower()
+        # ITAD spells "&" as "and" in slugs (e.g. "monsters and dragons").
+        norm = norm.replace("&", " and ")
+        # Drop characters that ITAD removes outright rather than turning into
+        # hyphens (apostrophes, commas inside numbers like "40,000" -> "40000",
+        # periods, trademark glyphs).
+        for ch in ("'", "\u2019", ",", ".", "\u2122", "\u00ae", "\u00a9"):
+            norm = norm.replace(ch, "")
+        # Replace any remaining non-alnum run with a single hyphen.
+        slug = re.sub(r"[^a-z0-9]+", "-", norm).strip("-")
+        slug = re.sub(r"-+", "-", slug)
+        if not slug:
+            return []
+        candidates = [slug]
+        # Fallback variants — try without leading "the-" or trailing edition
+        # qualifiers, and without subtitle (everything after a colon/dash).
+        if slug.startswith("the-"):
+            candidates.append(slug[4:])
+        for sep in (":", " - "):
+            head = title.split(sep, 1)[0].strip()
+            if head and head != title:
+                alt = ITADClient._slug_candidates(head)
+                if alt and alt[0] not in candidates:
+                    candidates.append(alt[0])
+        return candidates
+
+    def _verify_slug(self, slug: str) -> bool:
+        """Return True if /game/<slug>/info/ renders an actual game page.
+
+        ITAD returns HTTP 200 for both real and missing slugs (it's an SPA),
+        so we have to look at the body. Real game pages include an ``og:title``
+        meta tag; the empty SPA shell does not.
+        """
+        url = f"{WEB_BASE}/game/{slug}/info/"
+        try:
+            # Use a clean request — session has Content-Type: application/json
+            # which some CDNs reject on GETs.
+            r = requests.get(url, timeout=20, headers={
+                "User-Agent": UA, "Accept": "text/html,application/xhtml+xml",
+            })
+        except requests.RequestException:
+            return False
+        if r.status_code != 200:
+            return False
+        body = r.text or ""
+        return "og:title" in body
+
+    def resolve_slug(self, game_id: str, title: str) -> tuple[Optional[str], str]:
+        """Resolve (slug, url) for an ITAD game.
+
+        Returns the best URL we can construct: a verified slug URL when
+        available, otherwise the UUID URL (still 200 OK, but renders an
+        empty shell — used purely as a fallback).
+        """
+        cache = self._slug_cache
+        entry = cache.get(game_id)
+        if entry and entry.get("checked"):
+            slug = entry.get("slug")
+            if slug:
+                return slug, f"{WEB_BASE}/game/{slug}/info/"
+            return None, f"{WEB_BASE}/game/{game_id}/info/"
+        # Probe candidates.
+        for cand in self._slug_candidates(title):
+            time.sleep(0.2)  # be polite
+            if self._verify_slug(cand):
+                cache[game_id] = {"slug": cand, "title": title, "checked": True}
+                self._save_slug_cache(cache)
+                return cand, f"{WEB_BASE}/game/{cand}/info/"
+        # No candidate verified — record the miss so we don't re-probe next run.
+        cache[game_id] = {"slug": None, "title": title, "checked": True}
+        self._save_slug_cache(cache)
+        return None, f"{WEB_BASE}/game/{game_id}/info/"
 
     def prices(self, game_ids: list[str]) -> dict[str, ITADBest]:
         """Return {game_id: best_current_price}. Skips unknown ids."""
@@ -204,11 +327,12 @@ class ITADClient:
                 continue
             best = price_map.get(gid)
             low = low_map.get(gid)
+            slug, url = self.resolve_slug(gid, title)
             out[title] = ITADResult(
                 game_id=gid,
-                slug=None,
+                slug=slug,
                 title=title,
-                url=f"https://isthereanydeal.com/game/{gid}/info/",
+                url=url,
                 best_now=best,
                 historical_low=low,
             )

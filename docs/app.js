@@ -56,10 +56,13 @@ function itadCell(cell) {
   const itad = cell.getRow().getData().itad || {};
   if (!itad.game_id) return '<span style="color:var(--muted)">—</span>';
   const low = itad.historical_low || {};
-  if (low.price == null) {
-    return `<a href="${itad.url}" target="_blank" rel="noopener">ITAD</a>`;
-  }
-  return `<a href="${itad.url}" target="_blank" rel="noopener" title="Historical low ${fmtPrice(low.price)} at ${low.store || '?'} on ${low.date || '?'}">low ${fmtPrice(low.price)}</a>`;
+  // Only render a hyperlink when we resolved a real slug. UUID-only URLs
+  // route to an empty SPA shell ("not found") — show plain text instead.
+  const label = low.price == null ? "ITAD" : `low ${fmtPrice(low.price)}`;
+  const title = low.price == null ? ""
+    : ` title="Historical low ${fmtPrice(low.price)} at ${low.store || '?'} on ${low.date || '?'}"`;
+  if (!itad.slug) return `<span style="color:var(--muted)"${title}>${label}</span>`;
+  return `<a href="${itad.url}" target="_blank" rel="noopener"${title}>${label}</a>`;
 }
 
 function titleCell(cell) {

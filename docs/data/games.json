@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T22:47:42.614203+00:00",
+  "generated_at": "2026-05-23T23:45:06.348440+00:00",
   "currency": "USD",
   "country": "US",
   "totals": {
@@ -43,9 +43,9 @@
       },
       "itad": {
         "game_id": "019561e5-7116-70c8-b3a5-17784f3421d8",
-        "slug": null,
+        "slug": "absolum",
         "title": "Absolum",
-        "url": "https://isthereanydeal.com/game/019561e5-7116-70c8-b3a5-17784f3421d8/info/",
+        "url": "https://isthereanydeal.com/game/absolum/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -94,22 +94,22 @@
       },
       "itad": {
         "game_id": "018d937f-1aff-713c-8727-21fab2a416f7",
-        "slug": null,
+        "slug": "alaloth-champions-of-the-four-kingdoms",
         "title": "Alaloth - Champions of the Four Kingdoms",
-        "url": "https://isthereanydeal.com/game/018d937f-1aff-713c-8727-21fab2a416f7/info/",
+        "url": "https://isthereanydeal.com/game/alaloth-champions-of-the-four-kingdoms/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 28.09,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/alaloth-champions-of-the-four-kingdoms-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 20,
+        "value": 34.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/919360/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 34.99
       },
-      "discount_pct": 20,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -133,9 +133,9 @@
       },
       "itad": {
         "game_id": "018d937f-746c-729f-8db9-818d559ad8fe",
-        "slug": null,
+        "slug": "ammo-and-oxygen",
         "title": "Ammo and Oxygen",
-        "url": "https://isthereanydeal.com/game/018d937f-746c-729f-8db9-818d559ad8fe/info/",
+        "url": "https://isthereanydeal.com/game/ammo-and-oxygen/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -201,9 +201,9 @@
       },
       "itad": {
         "game_id": "01907e97-9660-73d3-aba3-83bc17984dc1",
-        "slug": null,
+        "slug": "au-revoir",
         "title": "Au Revoir",
-        "url": "https://isthereanydeal.com/game/01907e97-9660-73d3-aba3-83bc17984dc1/info/",
+        "url": "https://isthereanydeal.com/game/au-revoir/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -252,18 +252,18 @@
       },
       "itad": {
         "game_id": "0192950a-25b8-70d0-a7a4-de0539dfc10e",
-        "slug": null,
+        "slug": "bad-cheese",
         "title": "Bad Cheese",
-        "url": "https://isthereanydeal.com/game/0192950a-25b8-70d0-a7a4-de0539dfc10e/info/",
+        "url": "https://isthereanydeal.com/game/bad-cheese/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
         "value": 12.99,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/bad-cheese-pc-steam",
-        "detail": "Standard",
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3094480/",
+        "detail": "current",
         "discount_pct": null,
         "msrp": 12.99
       },
@@ -291,9 +291,9 @@
       },
       "itad": {
         "game_id": "018d937f-4391-700d-bb0c-4c0848791ee9",
-        "slug": null,
+        "slug": "barrel-roll",
         "title": "Barrel Roll",
-        "url": "https://isthereanydeal.com/game/018d937f-4391-700d-bb0c-4c0848791ee9/info/",
+        "url": "https://isthereanydeal.com/game/barrel-roll/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -330,9 +330,9 @@
       },
       "itad": {
         "game_id": "018d937f-5201-7118-a997-43802a45d8d9",
-        "slug": null,
+        "slug": "black-geyser-couriers-of-darkness",
         "title": "Black Geyser - Couriers of Darkness",
-        "url": "https://isthereanydeal.com/game/018d937f-5201-7118-a997-43802a45d8d9/info/",
+        "url": "https://isthereanydeal.com/game/black-geyser-couriers-of-darkness/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -392,9 +392,9 @@
       },
       "itad": {
         "game_id": "0191944e-da84-717e-9dbb-806aecaad485",
-        "slug": null,
+        "slug": "capcom-fighting-collection-2",
         "title": "Capcom Fighting Collection 2",
-        "url": "https://isthereanydeal.com/game/0191944e-da84-717e-9dbb-806aecaad485/info/",
+        "url": "https://isthereanydeal.com/game/capcom-fighting-collection-2/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -443,9 +443,9 @@
       },
       "itad": {
         "game_id": "018d937f-6f13-7277-926d-249bbcd28705",
-        "slug": null,
+        "slug": "cleared-hot",
         "title": "Cleared Hot",
-        "url": "https://isthereanydeal.com/game/018d937f-6f13-7277-926d-249bbcd28705/info/",
+        "url": "https://isthereanydeal.com/game/cleared-hot/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -474,9 +474,9 @@
       "steam": {},
       "itad": {
         "game_id": "018d937e-f04e-712c-b437-8cdcc95b357b",
-        "slug": null,
+        "slug": "cold-fear",
         "title": "Cold Fear",
-        "url": "https://isthereanydeal.com/game/018d937e-f04e-712c-b437-8cdcc95b357b/info/",
+        "url": "https://isthereanydeal.com/game/cold-fear/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -545,22 +545,22 @@
       },
       "itad": {
         "game_id": "019ae50c-e174-73ee-962c-aa56dee1a8a4",
-        "slug": null,
+        "slug": "conscript-directors-cut",
         "title": "Conscript Director's Cut",
-        "url": "https://isthereanydeal.com/game/019ae50c-e174-73ee-962c-aa56dee1a8a4/info/",
+        "url": "https://isthereanydeal.com/game/conscript-directors-cut/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 2.69,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/conscript-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 46,
+        "value": 4.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2936340/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 4.99
       },
-      "discount_pct": 46,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -588,20 +588,18 @@
       "steam": {},
       "itad": {
         "game_id": "018d937f-51d0-71f8-bae2-77219f574c03",
-        "slug": null,
+        "slug": "conway-disappearance-at-dahlia-view",
         "title": "Conway - Disappearance at Dahlia View",
-        "url": "https://isthereanydeal.com/game/018d937f-51d0-71f8-bae2-77219f574c03/info/",
+        "url": "https://isthereanydeal.com/game/conway-disappearance-at-dahlia-view/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 1.99,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/conway-disappearance-at-dahlia-view-pc-steam",
-        "detail": "Standard",
-        "discount_pct": null,
-        "msrp": null
+        "value": null,
+        "source": null,
+        "url": null,
+        "detail": null
       },
       "discount_pct": null,
       "alert_hit": false,
@@ -859,9 +857,9 @@
       },
       "itad": {
         "game_id": "018d937f-3a2c-706d-9bc5-6eb0d04e3857",
-        "slug": null,
+        "slug": "crusader-kings-iii",
         "title": "Crusader Kings III",
-        "url": "https://isthereanydeal.com/game/018d937f-3a2c-706d-9bc5-6eb0d04e3857/info/",
+        "url": "https://isthereanydeal.com/game/crusader-kings-iii/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -898,9 +896,9 @@
       },
       "itad": {
         "game_id": "019207c0-29d6-7304-95e0-59713d5b7ccf",
-        "slug": null,
+        "slug": "deadzone-rogue",
         "title": "Deadzone Rogue",
-        "url": "https://isthereanydeal.com/game/019207c0-29d6-7304-95e0-59713d5b7ccf/info/",
+        "url": "https://isthereanydeal.com/game/deadzone-rogue/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -947,9 +945,9 @@
       },
       "itad": {
         "game_id": "01924e06-631d-7310-a63d-0a31b95d62f4",
-        "slug": null,
+        "slug": "deck-of-haunts",
         "title": "Deck of Haunts",
-        "url": "https://isthereanydeal.com/game/01924e06-631d-7310-a63d-0a31b95d62f4/info/",
+        "url": "https://isthereanydeal.com/game/deck-of-haunts/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -986,9 +984,9 @@
       },
       "itad": {
         "game_id": "019736a3-bc52-7136-885a-9fe93efd428b",
-        "slug": null,
+        "slug": "demeo-x-dungeons-and-dragons-battlemarked",
         "title": "Demeo x Dungeons & Dragons - Battlemarked",
-        "url": "https://isthereanydeal.com/game/019736a3-bc52-7136-885a-9fe93efd428b/info/",
+        "url": "https://isthereanydeal.com/game/demeo-x-dungeons-and-dragons-battlemarked/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1025,9 +1023,9 @@
       },
       "itad": {
         "game_id": "018d97ff-16e2-7220-81ce-6c3b0144ba3b",
-        "slug": null,
+        "slug": "duskpunk",
         "title": "Duskpunk",
-        "url": "https://isthereanydeal.com/game/018d97ff-16e2-7220-81ce-6c3b0144ba3b/info/",
+        "url": "https://isthereanydeal.com/game/duskpunk/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1064,9 +1062,9 @@
       },
       "itad": {
         "game_id": "018d937f-7365-7134-84f8-52f85fd555a2",
-        "slug": null,
+        "slug": "dust-raiders",
         "title": "Dust Raiders",
-        "url": "https://isthereanydeal.com/game/018d937f-7365-7134-84f8-52f85fd555a2/info/",
+        "url": "https://isthereanydeal.com/game/dust-raiders/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1103,9 +1101,9 @@
       },
       "itad": {
         "game_id": "019527be-fd30-728f-a30e-2e893b8a7238",
-        "slug": null,
+        "slug": "dustwind-resistance",
         "title": "Dustwind - Resistance",
-        "url": "https://isthereanydeal.com/game/019527be-fd30-728f-a30e-2e893b8a7238/info/",
+        "url": "https://isthereanydeal.com/game/dustwind-resistance/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1154,22 +1152,22 @@
       },
       "itad": {
         "game_id": "0196a61e-bc91-70ae-bddb-c88b1130fd63",
-        "slug": null,
+        "slug": "earthion",
         "title": "Earthion",
-        "url": "https://isthereanydeal.com/game/0196a61e-bc91-70ae-bddb-c88b1130fd63/info/",
+        "url": "https://isthereanydeal.com/game/earthion/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 16.29,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/earthion-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 19,
+        "value": 19.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3597580/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 19.99
       },
-      "discount_pct": 19,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -1227,9 +1225,9 @@
       },
       "itad": {
         "game_id": "0196b0b0-b4bd-73c8-a4f0-75f746024337",
-        "slug": null,
+        "slug": "europa-universalis-v",
         "title": "Europa Universalis V",
-        "url": "https://isthereanydeal.com/game/0196b0b0-b4bd-73c8-a4f0-75f746024337/info/",
+        "url": "https://isthereanydeal.com/game/europa-universalis-v/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1266,9 +1264,9 @@
       },
       "itad": {
         "game_id": "01963a82-eead-720d-b7c1-87bc250b8a0f",
-        "slug": null,
+        "slug": "fear-effect",
         "title": "Fear Effect",
-        "url": "https://isthereanydeal.com/game/01963a82-eead-720d-b7c1-87bc250b8a0f/info/",
+        "url": "https://isthereanydeal.com/game/fear-effect/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1305,9 +1303,9 @@
       },
       "itad": {
         "game_id": "018d937f-6c87-7012-9c81-027ad5c07e02",
-        "slug": null,
+        "slug": "formula-retro-racing-world-tour",
         "title": "Formula Retro Racing World Tour",
-        "url": "https://isthereanydeal.com/game/018d937f-6c87-7012-9c81-027ad5c07e02/info/",
+        "url": "https://isthereanydeal.com/game/formula-retro-racing-world-tour/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1344,9 +1342,9 @@
       },
       "itad": {
         "game_id": "0190b756-9e9a-72af-b650-be36bfddb5ed",
-        "slug": null,
+        "slug": "fragile-reflection",
         "title": "Fragile Reflection",
-        "url": "https://isthereanydeal.com/game/0190b756-9e9a-72af-b650-be36bfddb5ed/info/",
+        "url": "https://isthereanydeal.com/game/fragile-reflection/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1395,9 +1393,9 @@
       },
       "itad": {
         "game_id": "019b4f6d-64af-72ed-94e0-76c7ed5ba1cd",
-        "slug": null,
+        "slug": "front-mission-3-remake",
         "title": "Front Mission 3 - Remake",
-        "url": "https://isthereanydeal.com/game/019b4f6d-64af-72ed-94e0-76c7ed5ba1cd/info/",
+        "url": "https://isthereanydeal.com/game/front-mission-3-remake/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1446,22 +1444,22 @@
       },
       "itad": {
         "game_id": "018d97b9-e5cd-7385-bb71-6f50b1677bac",
-        "slug": null,
+        "slug": "gatekeeper",
         "title": "Gatekeeper",
-        "url": "https://isthereanydeal.com/game/018d97b9-e5cd-7385-bb71-6f50b1677bac/info/",
+        "url": "https://isthereanydeal.com/game/gatekeeper/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 2.69,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/gatekeeper-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 79,
+        "value": 6.49,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1933650/",
+        "detail": "current",
+        "discount_pct": 50,
         "msrp": 12.99
       },
-      "discount_pct": 79,
+      "discount_pct": 50,
       "alert_hit": false,
       "alert_target": null
     },
@@ -1497,9 +1495,9 @@
       },
       "itad": {
         "game_id": "018d937f-5280-7230-afe0-608b6e01c21d",
-        "slug": null,
+        "slug": "gigabash",
         "title": "GigaBash",
-        "url": "https://isthereanydeal.com/game/018d937f-5280-7230-afe0-608b6e01c21d/info/",
+        "url": "https://isthereanydeal.com/game/gigabash/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1559,9 +1557,9 @@
       },
       "itad": {
         "game_id": "018d937f-1f18-7333-9b1d-26f49959b785",
-        "slug": null,
+        "slug": "gloomhaven",
         "title": "Gloomhaven",
-        "url": "https://isthereanydeal.com/game/018d937f-1f18-7333-9b1d-26f49959b785/info/",
+        "url": "https://isthereanydeal.com/game/gloomhaven/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1602,9 +1600,9 @@
       "steam": {},
       "itad": {
         "game_id": "0195d82e-84b2-706e-9e70-3dbf02823cca",
-        "slug": null,
+        "slug": "gradius-origins",
         "title": "GRADIUS ORIGINS",
-        "url": "https://isthereanydeal.com/game/0195d82e-84b2-706e-9e70-3dbf02823cca/info/",
+        "url": "https://isthereanydeal.com/game/gradius-origins/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1653,9 +1651,9 @@
       },
       "itad": {
         "game_id": "018d937f-6ee3-738a-b578-ddd7e9a0d24d",
-        "slug": null,
+        "slug": "hades-ii",
         "title": "Hades II",
-        "url": "https://isthereanydeal.com/game/018d937f-6ee3-738a-b578-ddd7e9a0d24d/info/",
+        "url": "https://isthereanydeal.com/game/hades-ii/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1704,22 +1702,22 @@
       },
       "itad": {
         "game_id": "018d937f-42c4-7000-b596-71a6fb77425f",
-        "slug": null,
+        "slug": "hellcard",
         "title": "HELLCARD",
-        "url": "https://isthereanydeal.com/game/018d937f-42c4-7000-b596-71a6fb77425f/info/",
+        "url": "https://isthereanydeal.com/game/hellcard/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 13.39,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/hellcard-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 46,
+        "value": 24.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1201540/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 24.99
       },
-      "discount_pct": 46,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -1755,9 +1753,9 @@
       },
       "itad": {
         "game_id": "0197ac48-03e5-72f3-8f1e-be302da14c29",
-        "slug": null,
+        "slug": "hellmart",
         "title": "HELLMART",
-        "url": "https://isthereanydeal.com/game/0197ac48-03e5-72f3-8f1e-be302da14c29/info/",
+        "url": "https://isthereanydeal.com/game/hellmart/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1806,9 +1804,9 @@
       },
       "itad": {
         "game_id": "018d937f-1e67-708d-989d-b38bde2520fb",
-        "slug": null,
+        "slug": "hollow-knight-silksong",
         "title": "Hollow Knight - Silksong",
-        "url": "https://isthereanydeal.com/game/018d937f-1e67-708d-989d-b38bde2520fb/info/",
+        "url": "https://isthereanydeal.com/game/hollow-knight-silksong/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1845,9 +1843,9 @@
       },
       "itad": {
         "game_id": "018d937f-6bd5-7161-b965-a0b0b7f6e01f",
-        "slug": null,
+        "slug": "hunters-moon",
         "title": "Hunter's Moon",
-        "url": "https://isthereanydeal.com/game/018d937f-6bd5-7161-b965-a0b0b7f6e01f/info/",
+        "url": "https://isthereanydeal.com/game/hunters-moon/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1896,22 +1894,22 @@
       },
       "itad": {
         "game_id": "0195b4fd-bad4-7054-bf6b-78a2099bdbb1",
-        "slug": null,
+        "slug": "i-hate-this-place",
         "title": "I Hate This Place",
-        "url": "https://isthereanydeal.com/game/0195b4fd-bad4-7054-bf6b-78a2099bdbb1/info/",
+        "url": "https://isthereanydeal.com/game/i-hate-this-place/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 28.69,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/i-hate-this-place-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 4,
+        "value": 29.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2604490/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 29.99
       },
-      "discount_pct": 4,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -1947,9 +1945,9 @@
       },
       "itad": {
         "game_id": "018d937f-64ca-73c0-859b-815a527208d4",
-        "slug": null,
+        "slug": "incision",
         "title": "INCISION",
-        "url": "https://isthereanydeal.com/game/018d937f-64ca-73c0-859b-815a527208d4/info/",
+        "url": "https://isthereanydeal.com/game/incision/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -1986,9 +1984,9 @@
       },
       "itad": {
         "game_id": "018d937f-6ef2-7274-87cd-6aaa3e36db69",
-        "slug": null,
+        "slug": "into-the-dead-our-darkest-days",
         "title": "Into the Dead Our Darkest Days",
-        "url": "https://isthereanydeal.com/game/018d937f-6ef2-7274-87cd-6aaa3e36db69/info/",
+        "url": "https://isthereanydeal.com/game/into-the-dead-our-darkest-days/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2048,9 +2046,9 @@
       },
       "itad": {
         "game_id": "019750ed-01d8-72e0-bfe7-b132a008ea71",
-        "slug": null,
+        "slug": "invincible-vs",
         "title": "Invincible VS",
-        "url": "https://isthereanydeal.com/game/019750ed-01d8-72e0-bfe7-b132a008ea71/info/",
+        "url": "https://isthereanydeal.com/game/invincible-vs/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2087,9 +2085,9 @@
       },
       "itad": {
         "game_id": "0195cc28-090e-70ba-86ec-bd4211c2eef8",
-        "slug": null,
+        "slug": "iron-core-mech-survivor",
         "title": "Iron Core - Mech Survivor",
-        "url": "https://isthereanydeal.com/game/0195cc28-090e-70ba-86ec-bd4211c2eef8/info/",
+        "url": "https://isthereanydeal.com/game/iron-core-mech-survivor/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2126,9 +2124,9 @@
       },
       "itad": {
         "game_id": "018d937f-0ebd-70af-af30-b07245aded4c",
-        "slug": null,
+        "slug": "jackal",
         "title": "Jackal",
-        "url": "https://isthereanydeal.com/game/018d937f-0ebd-70af-af30-b07245aded4c/info/",
+        "url": "https://isthereanydeal.com/game/jackal/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2177,22 +2175,22 @@
       },
       "itad": {
         "game_id": "018f85fe-e303-7158-b3df-1042baf6993b",
-        "slug": null,
+        "slug": "keep-driving",
         "title": "Keep Driving",
-        "url": "https://isthereanydeal.com/game/018f85fe-e303-7158-b3df-1042baf6993b/info/",
+        "url": "https://isthereanydeal.com/game/keep-driving/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 12.89,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/keep-driving-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 28,
+        "value": 13.49,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2756920/",
+        "detail": "current",
+        "discount_pct": 25,
         "msrp": 17.99
       },
-      "discount_pct": 28,
+      "discount_pct": 25,
       "alert_hit": false,
       "alert_target": null
     },
@@ -2349,9 +2347,9 @@
       },
       "itad": {
         "game_id": "018ef26b-9580-704e-a69c-edeee70cfea5",
-        "slug": null,
+        "slug": "kingdom-come-deliverance-ii",
         "title": "Kingdom Come - Deliverance II",
-        "url": "https://isthereanydeal.com/game/018ef26b-9580-704e-a69c-edeee70cfea5/info/",
+        "url": "https://isthereanydeal.com/game/kingdom-come-deliverance-ii/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2417,9 +2415,9 @@
       },
       "itad": {
         "game_id": "018d937f-7b4d-7328-826b-3b0c60317fd7",
-        "slug": null,
+        "slug": "legacy-of-evil",
         "title": "Legacy of Evil",
-        "url": "https://isthereanydeal.com/game/018d937f-7b4d-7328-826b-3b0c60317fd7/info/",
+        "url": "https://isthereanydeal.com/game/legacy-of-evil/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2495,9 +2493,9 @@
       },
       "itad": {
         "game_id": "0193b005-b2df-7017-99cd-fc494ec91fee",
-        "slug": null,
+        "slug": "live-lens-bodycam",
         "title": "Live Lens Bodycam",
-        "url": "https://isthereanydeal.com/game/0193b005-b2df-7017-99cd-fc494ec91fee/info/",
+        "url": "https://isthereanydeal.com/game/live-lens-bodycam/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2546,9 +2544,9 @@
       },
       "itad": {
         "game_id": "018d937f-743a-7360-9bf4-522dd7497a86",
-        "slug": null,
+        "slug": "lunar-ascendant",
         "title": "Lunar Ascendant",
-        "url": "https://isthereanydeal.com/game/018d937f-743a-7360-9bf4-522dd7497a86/info/",
+        "url": "https://isthereanydeal.com/game/lunar-ascendant/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2597,9 +2595,9 @@
       },
       "itad": {
         "game_id": "0195d813-11aa-7145-90e5-0489e17932e6",
-        "slug": null,
+        "slug": "marvel-cosmic-invasion",
         "title": "Marvel Cosmic Invasion",
-        "url": "https://isthereanydeal.com/game/0195d813-11aa-7145-90e5-0489e17932e6/info/",
+        "url": "https://isthereanydeal.com/game/marvel-cosmic-invasion/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2648,9 +2646,9 @@
       },
       "itad": {
         "game_id": "018d937f-745d-7177-bd14-763e5c014e70",
-        "slug": null,
+        "slug": "menace",
         "title": "Menace",
-        "url": "https://isthereanydeal.com/game/018d937f-745d-7177-bd14-763e5c014e70/info/",
+        "url": "https://isthereanydeal.com/game/menace/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2687,9 +2685,9 @@
       },
       "itad": {
         "game_id": "018d937f-789d-71ef-add1-c90d4cd3e370",
-        "slug": null,
+        "slug": "menace-from-the-deep",
         "title": "Menace from the Deep",
-        "url": "https://isthereanydeal.com/game/018d937f-789d-71ef-add1-c90d4cd3e370/info/",
+        "url": "https://isthereanydeal.com/game/menace-from-the-deep/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2738,22 +2736,22 @@
       },
       "itad": {
         "game_id": "018d975e-74c9-7108-8165-93dc585a1753",
-        "slug": null,
+        "slug": "minds-beneath-us",
         "title": "Minds Beneath Us",
-        "url": "https://isthereanydeal.com/game/018d975e-74c9-7108-8165-93dc585a1753/info/",
+        "url": "https://isthereanydeal.com/game/minds-beneath-us/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 17.89,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/minds-beneath-us-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 11,
+        "value": 19.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1610440/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 19.99
       },
-      "discount_pct": 11,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -2800,9 +2798,9 @@
       },
       "itad": {
         "game_id": "01951ebb-d8a9-71d8-b389-f8de0325be9d",
-        "slug": null,
+        "slug": "monster-train-2",
         "title": "Monster Train 2",
-        "url": "https://isthereanydeal.com/game/01951ebb-d8a9-71d8-b389-f8de0325be9d/info/",
+        "url": "https://isthereanydeal.com/game/monster-train-2/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2843,9 +2841,9 @@
       "steam": {},
       "itad": {
         "game_id": "0197365f-0061-73aa-9254-a2c1ef8fd8e5",
-        "slug": null,
+        "slug": "monsters-are-coming-rock-and-road",
         "title": "Monsters are Coming! Rock & Road",
-        "url": "https://isthereanydeal.com/game/0197365f-0061-73aa-9254-a2c1ef8fd8e5/info/",
+        "url": "https://isthereanydeal.com/game/monsters-are-coming-rock-and-road/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2894,9 +2892,9 @@
       },
       "itad": {
         "game_id": "01973d21-1103-73c2-b57d-540c397bd4d3",
-        "slug": null,
+        "slug": "mortal-kombat-legacy-kollection",
         "title": "Mortal Kombat Legacy Kollection",
-        "url": "https://isthereanydeal.com/game/01973d21-1103-73c2-b57d-540c397bd4d3/info/",
+        "url": "https://isthereanydeal.com/game/mortal-kombat-legacy-kollection/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2933,9 +2931,9 @@
       },
       "itad": {
         "game_id": "018d937f-7b0d-7099-b48a-51bcf8f78d17",
-        "slug": null,
+        "slug": "moses-and-plato-last-train-to-clawville",
         "title": "Moses & Plato - Last Train to Clawville",
-        "url": "https://isthereanydeal.com/game/018d937f-7b0d-7099-b48a-51bcf8f78d17/info/",
+        "url": "https://isthereanydeal.com/game/moses-and-plato-last-train-to-clawville/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -2984,22 +2982,22 @@
       },
       "itad": {
         "game_id": "018d937f-7b72-7362-ae39-e12df30d362a",
-        "slug": null,
+        "slug": "mutant-football-league-2",
         "title": "Mutant Football League 2",
-        "url": "https://isthereanydeal.com/game/018d937f-7b72-7362-ae39-e12df30d362a/info/",
+        "url": "https://isthereanydeal.com/game/mutant-football-league-2/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 27.09,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/mutant-football-league-2-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 10,
+        "value": 29.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1657320/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 29.99
       },
-      "discount_pct": 10,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -3035,22 +3033,22 @@
       },
       "itad": {
         "game_id": "0191eec0-8a9e-723a-a853-89f8a296870f",
-        "slug": null,
+        "slug": "neon-inferno",
         "title": "Neon Inferno",
-        "url": "https://isthereanydeal.com/game/0191eec0-8a9e-723a-a853-89f8a296870f/info/",
+        "url": "https://isthereanydeal.com/game/neon-inferno/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 18.29,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/neon-inferno-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 9,
+        "value": 19.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2957720/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 19.99
       },
-      "discount_pct": 9,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -3086,9 +3084,9 @@
       },
       "itad": {
         "game_id": "018f50c7-e5b9-71be-9689-0ca1a80aad3b",
-        "slug": null,
+        "slug": "netherworld-covenant",
         "title": "Netherworld Covenant",
-        "url": "https://isthereanydeal.com/game/018f50c7-e5b9-71be-9689-0ca1a80aad3b/info/",
+        "url": "https://isthereanydeal.com/game/netherworld-covenant/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3137,9 +3135,9 @@
       },
       "itad": {
         "game_id": "0193bd7c-b821-70c5-b2a1-61b760a0deee",
-        "slug": null,
+        "slug": "ninja-gaiden-ragebound",
         "title": "NINJA GAIDEN - Ragebound",
-        "url": "https://isthereanydeal.com/game/0193bd7c-b821-70c5-b2a1-61b760a0deee/info/",
+        "url": "https://isthereanydeal.com/game/ninja-gaiden-ragebound/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3199,9 +3197,9 @@
       },
       "itad": {
         "game_id": "01973dc5-7692-728a-b675-5bb399bb6801",
-        "slug": null,
+        "slug": "nioh-3",
         "title": "Nioh 3",
-        "url": "https://isthereanydeal.com/game/01973dc5-7692-728a-b675-5bb399bb6801/info/",
+        "url": "https://isthereanydeal.com/game/nioh-3/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3261,9 +3259,9 @@
       },
       "itad": {
         "game_id": "018d937f-7164-7029-a824-7aa31a926343",
-        "slug": null,
+        "slug": "nobunagas-ambition-awakening",
         "title": "Nobunaga's Ambition Awakening",
-        "url": "https://isthereanydeal.com/game/018d937f-7164-7029-a824-7aa31a926343/info/",
+        "url": "https://isthereanydeal.com/game/nobunagas-ambition-awakening/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3312,22 +3310,22 @@
       },
       "itad": {
         "game_id": "0194656f-e3e7-729d-8e7c-ebeeacbfe8a6",
-        "slug": null,
+        "slug": "noobs-are-coming",
         "title": "Noobs Are Coming",
-        "url": "https://isthereanydeal.com/game/0194656f-e3e7-729d-8e7c-ebeeacbfe8a6/info/",
+        "url": "https://isthereanydeal.com/game/noobs-are-coming/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 7.29,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/noobs-are-coming-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 9,
+        "value": 7.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2225960/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 7.99
       },
-      "discount_pct": 9,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -3351,9 +3349,9 @@
       },
       "itad": {
         "game_id": "018dd223-0700-7263-8664-67ff6d2da263",
-        "slug": null,
+        "slug": "octopus-goulash",
         "title": "Octopus Goulash",
-        "url": "https://isthereanydeal.com/game/018dd223-0700-7263-8664-67ff6d2da263/info/",
+        "url": "https://isthereanydeal.com/game/octopus-goulash/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3390,9 +3388,9 @@
       },
       "itad": {
         "game_id": "0198c36f-a8f5-71e9-930c-087af841667a",
-        "slug": null,
+        "slug": "outlaws-handful-of-missions-remaster",
         "title": "Outlaws + Handful of Missions - Remaster",
-        "url": "https://isthereanydeal.com/game/0198c36f-a8f5-71e9-930c-087af841667a/info/",
+        "url": "https://isthereanydeal.com/game/outlaws-handful-of-missions-remaster/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3441,22 +3439,22 @@
       },
       "itad": {
         "game_id": "018d937f-64cc-72cd-a4b7-b58cf6be8d89",
-        "slug": null,
+        "slug": "phantom-fury",
         "title": "Phantom Fury",
-        "url": "https://isthereanydeal.com/game/018d937f-64cc-72cd-a4b7-b58cf6be8d89/info/",
+        "url": "https://isthereanydeal.com/game/phantom-fury/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 16.69,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/phantom-fury-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 33,
+        "value": 24.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1733240/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 24.99
       },
-      "discount_pct": 33,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -3480,9 +3478,9 @@
       },
       "itad": {
         "game_id": "018fed6c-0494-7374-9181-cd0a92ac3a26",
-        "slug": null,
+        "slug": "platypus-reclayed",
         "title": "Platypus Reclayed",
-        "url": "https://isthereanydeal.com/game/018fed6c-0494-7374-9181-cd0a92ac3a26/info/",
+        "url": "https://isthereanydeal.com/game/platypus-reclayed/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3519,9 +3517,9 @@
       },
       "itad": {
         "game_id": "018d937f-69c6-731f-9ebd-c80e3ca519d4",
-        "slug": null,
+        "slug": "political-arena",
         "title": "Political Arena",
-        "url": "https://isthereanydeal.com/game/018d937f-69c6-731f-9ebd-c80e3ca519d4/info/",
+        "url": "https://isthereanydeal.com/game/political-arena/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3603,9 +3601,9 @@
       },
       "itad": {
         "game_id": "01973dd3-e247-712c-aaee-acff181a3175",
-        "slug": null,
+        "slug": "pragmata",
         "title": "PRAGMATA",
-        "url": "https://isthereanydeal.com/game/01973dd3-e247-712c-aaee-acff181a3175/info/",
+        "url": "https://isthereanydeal.com/game/pragmata/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3642,9 +3640,9 @@
       },
       "itad": {
         "game_id": "0193234d-d574-73ad-b343-8b225aba8ad9",
-        "slug": null,
+        "slug": "pro-wrestler-story",
         "title": "Pro Wrestler Story",
-        "url": "https://isthereanydeal.com/game/0193234d-d574-73ad-b343-8b225aba8ad9/info/",
+        "url": "https://isthereanydeal.com/game/pro-wrestler-story/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3693,22 +3691,22 @@
       },
       "itad": {
         "game_id": "01991540-b975-7160-9fff-8d2eac3fd541",
-        "slug": null,
+        "slug": "puzzle-quest-immortal-edition",
         "title": "Puzzle Quest Immortal Edition",
-        "url": "https://isthereanydeal.com/game/01991540-b975-7160-9fff-8d2eac3fd541/info/",
+        "url": "https://isthereanydeal.com/game/puzzle-quest-immortal-edition/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 14.89,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/puzzle-quest-immortal-edition-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 1,
+        "value": 14.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3236710/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 14.99
       },
-      "discount_pct": 1,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -3724,9 +3722,9 @@
       "steam": {},
       "itad": {
         "game_id": "018d937f-5c5a-70b4-a775-aeffccb6cbbe",
-        "slug": null,
+        "slug": "ragnar",
         "title": "Ragnar",
-        "url": "https://isthereanydeal.com/game/018d937f-5c5a-70b4-a775-aeffccb6cbbe/info/",
+        "url": "https://isthereanydeal.com/game/ragnar/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3761,9 +3759,9 @@
       },
       "itad": {
         "game_id": "019779d5-a77f-70d4-aaa0-13d2a1e5ac58",
-        "slug": null,
+        "slug": "retro-rewind-video-store-simulator",
         "title": "Retro Rewind - Video Store Simulator",
-        "url": "https://isthereanydeal.com/game/019779d5-a77f-70d4-aaa0-13d2a1e5ac58/info/",
+        "url": "https://isthereanydeal.com/game/retro-rewind-video-store-simulator/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3812,9 +3810,9 @@
       },
       "itad": {
         "game_id": "018d937f-1ee4-71f5-8aa8-d51ae4cfaaaf",
-        "slug": null,
+        "slug": "routine",
         "title": "ROUTINE",
-        "url": "https://isthereanydeal.com/game/018d937f-1ee4-71f5-8aa8-d51ae4cfaaaf/info/",
+        "url": "https://isthereanydeal.com/game/routine/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3851,9 +3849,9 @@
       },
       "itad": {
         "game_id": "01976c70-7f22-725a-b66a-6d45db6a3e19",
-        "slug": null,
+        "slug": "r-type-delta-hd-boosted",
         "title": "R-Type Delta HD Boosted",
-        "url": "https://isthereanydeal.com/game/01976c70-7f22-725a-b66a-6d45db6a3e19/info/",
+        "url": "https://isthereanydeal.com/game/r-type-delta-hd-boosted/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3913,9 +3911,9 @@
       },
       "itad": {
         "game_id": "018d937f-6962-714f-9bf7-c750c6ce9365",
-        "slug": null,
+        "slug": "rue-valley",
         "title": "Rue Valley",
-        "url": "https://isthereanydeal.com/game/018d937f-6962-714f-9bf7-c750c6ce9365/info/",
+        "url": "https://isthereanydeal.com/game/rue-valley/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -3964,22 +3962,22 @@
       },
       "itad": {
         "game_id": "01974760-72fd-7352-a1b6-ee8b68ba4105",
-        "slug": null,
+        "slug": "scott-pilgrim-ex",
         "title": "Scott Pilgrim EX",
-        "url": "https://isthereanydeal.com/game/01974760-72fd-7352-a1b6-ee8b68ba4105/info/",
+        "url": "https://isthereanydeal.com/game/scott-pilgrim-ex/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 27.09,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/scott-pilgrim-ex-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 7,
+        "value": 28.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2640950/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 28.99
       },
-      "discount_pct": 7,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -4003,9 +4001,9 @@
       },
       "itad": {
         "game_id": "018d937f-1b1a-7035-b153-15006d9c9a55",
-        "slug": null,
+        "slug": "shadows-of-doubt",
         "title": "Shadows of Doubt",
-        "url": "https://isthereanydeal.com/game/018d937f-1b1a-7035-b153-15006d9c9a55/info/",
+        "url": "https://isthereanydeal.com/game/shadows-of-doubt/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4065,9 +4063,9 @@
       },
       "itad": {
         "game_id": "0194fc66-d5ff-7130-840a-f998885f2f1c",
-        "slug": null,
+        "slug": "shinobi-art-of-vengeance",
         "title": "SHINOBI - Art of Vengeance",
-        "url": "https://isthereanydeal.com/game/0194fc66-d5ff-7130-840a-f998885f2f1c/info/",
+        "url": "https://isthereanydeal.com/game/shinobi-art-of-vengeance/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4116,22 +4114,22 @@
       },
       "itad": {
         "game_id": "018ec8ff-e01c-70b6-bf65-5b184f82f859",
-        "slug": null,
+        "slug": "slay-the-spire-2",
         "title": "Slay the Spire 2",
-        "url": "https://isthereanydeal.com/game/018ec8ff-e01c-70b6-bf65-5b184f82f859/info/",
+        "url": "https://isthereanydeal.com/game/slay-the-spire-2/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 24.39,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/slay-the-spire-2-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 2,
+        "value": 24.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2868840/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 24.99
       },
-      "discount_pct": 2,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -4167,9 +4165,9 @@
       },
       "itad": {
         "game_id": "01983d6f-0d64-7243-9444-7a7ff1be819c",
-        "slug": null,
+        "slug": "slots-and-daggers",
         "title": "Slots & Daggers",
-        "url": "https://isthereanydeal.com/game/01983d6f-0d64-7243-9444-7a7ff1be819c/info/",
+        "url": "https://isthereanydeal.com/game/slots-and-daggers/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4218,22 +4216,22 @@
       },
       "itad": {
         "game_id": "0198eeba-21eb-72e9-ba10-5e2941b92ea3",
-        "slug": null,
+        "slug": "snow-ash",
         "title": "Snow Ash",
-        "url": "https://isthereanydeal.com/game/0198eeba-21eb-72e9-ba10-5e2941b92ea3/info/",
+        "url": "https://isthereanydeal.com/game/snow-ash/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 13.89,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/snow-ash-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 7,
+        "value": 14.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3367030/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 14.99
       },
-      "discount_pct": 7,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -4269,9 +4267,9 @@
       },
       "itad": {
         "game_id": "019746b5-a04f-7226-92f0-19dcb403858b",
-        "slug": null,
+        "slug": "star-fire-eternal-cycle",
         "title": "Star Fire - Eternal Cycle",
-        "url": "https://isthereanydeal.com/game/019746b5-a04f-7226-92f0-19dcb403858b/info/",
+        "url": "https://isthereanydeal.com/game/star-fire-eternal-cycle/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4320,18 +4318,18 @@
       },
       "itad": {
         "game_id": "01970ce7-8d0b-711f-9f8c-939e387d6f70",
-        "slug": null,
+        "slug": "super-world-war",
         "title": "Super World War",
-        "url": "https://isthereanydeal.com/game/01970ce7-8d0b-711f-9f8c-939e387d6f70/info/",
+        "url": "https://isthereanydeal.com/game/super-world-war/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
         "value": 19.99,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/super-world-war-pc-steam",
-        "detail": "Standard",
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/3473580/",
+        "detail": "current",
         "discount_pct": null,
         "msrp": 19.99
       },
@@ -4359,9 +4357,9 @@
       },
       "itad": {
         "game_id": "0191daa0-40b0-70e2-b852-351d07971491",
-        "slug": null,
+        "slug": "tearscape",
         "title": "Tearscape",
-        "url": "https://isthereanydeal.com/game/0191daa0-40b0-70e2-b852-351d07971491/info/",
+        "url": "https://isthereanydeal.com/game/tearscape/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4443,9 +4441,9 @@
       },
       "itad": {
         "game_id": "018d937f-5b0b-70c6-a501-e6d089d0f7f4",
-        "slug": null,
+        "slug": "terminator-dark-fate-defiance",
         "title": "Terminator - Dark Fate - Defiance",
-        "url": "https://isthereanydeal.com/game/018d937f-5b0b-70c6-a501-e6d089d0f7f4/info/",
+        "url": "https://isthereanydeal.com/game/terminator-dark-fate-defiance/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4482,9 +4480,9 @@
       },
       "itad": {
         "game_id": "0195f759-5b6b-73b4-9773-e5d7298720e2",
-        "slug": null,
+        "slug": "the-dark-rites-of-arkham",
         "title": "The Dark Rites of Arkham",
-        "url": "https://isthereanydeal.com/game/0195f759-5b6b-73b4-9773-e5d7298720e2/info/",
+        "url": "https://isthereanydeal.com/game/the-dark-rites-of-arkham/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4533,22 +4531,22 @@
       },
       "itad": {
         "game_id": "018d958a-a249-734c-bcda-9105f30c9e94",
-        "slug": null,
+        "slug": "the-drifter",
         "title": "The Drifter",
-        "url": "https://isthereanydeal.com/game/018d958a-a249-734c-bcda-9105f30c9e94/info/",
+        "url": "https://isthereanydeal.com/game/the-drifter/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 18.29,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/the-drifter-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 9,
+        "value": 19.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1170570/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 19.99
       },
-      "discount_pct": 9,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -4584,9 +4582,9 @@
       },
       "itad": {
         "game_id": "01993529-5fde-7118-b550-3b9c99bffdc6",
-        "slug": null,
+        "slug": "the-last-case-of-john-morley",
         "title": "The Last Case of John Morley",
-        "url": "https://isthereanydeal.com/game/01993529-5fde-7118-b550-3b9c99bffdc6/info/",
+        "url": "https://isthereanydeal.com/game/the-last-case-of-john-morley/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4623,9 +4621,9 @@
       },
       "itad": {
         "game_id": "018d937f-437e-724c-99dd-4fd0fe9f461a",
-        "slug": null,
+        "slug": "the-last-faith",
         "title": "The Last Faith",
-        "url": "https://isthereanydeal.com/game/018d937f-437e-724c-99dd-4fd0fe9f461a/info/",
+        "url": "https://isthereanydeal.com/game/the-last-faith/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4674,9 +4672,9 @@
       },
       "itad": {
         "game_id": "018d937f-45d7-7332-9b95-616d46f8057e",
-        "slug": null,
+        "slug": "the-necromancers-tale",
         "title": "The Necromancer's Tale",
-        "url": "https://isthereanydeal.com/game/018d937f-45d7-7332-9b95-616d46f8057e/info/",
+        "url": "https://isthereanydeal.com/game/the-necromancers-tale/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4713,9 +4711,9 @@
       },
       "itad": {
         "game_id": "019798dc-d4d5-71bc-be03-070754edcd2c",
-        "slug": null,
+        "slug": "the-ratline",
         "title": "The Ratline",
-        "url": "https://isthereanydeal.com/game/019798dc-d4d5-71bc-be03-070754edcd2c/info/",
+        "url": "https://isthereanydeal.com/game/the-ratline/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4752,9 +4750,9 @@
       },
       "itad": {
         "game_id": "018dfbc3-c1e8-7140-919b-0821c668f972",
-        "slug": null,
+        "slug": "the-roottrees-are-dead",
         "title": "The Roottrees are Dead",
-        "url": "https://isthereanydeal.com/game/018dfbc3-c1e8-7140-919b-0821c668f972/info/",
+        "url": "https://isthereanydeal.com/game/the-roottrees-are-dead/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4791,9 +4789,9 @@
       },
       "itad": {
         "game_id": "0192512e-19bb-72dd-9d4f-77d607222503",
-        "slug": null,
+        "slug": "the-succession-of-changing-kings",
         "title": "The Succession of Changing Kings",
-        "url": "https://isthereanydeal.com/game/0192512e-19bb-72dd-9d4f-77d607222503/info/",
+        "url": "https://isthereanydeal.com/game/the-succession-of-changing-kings/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4830,9 +4828,9 @@
       },
       "itad": {
         "game_id": "018d958a-2616-7360-acd0-8c3c42b72330",
-        "slug": null,
+        "slug": "the-temple-of-elemental-evil",
         "title": "The Temple of Elemental Evil",
-        "url": "https://isthereanydeal.com/game/018d958a-2616-7360-acd0-8c3c42b72330/info/",
+        "url": "https://isthereanydeal.com/game/the-temple-of-elemental-evil/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -4881,22 +4879,22 @@
       },
       "itad": {
         "game_id": "018d937f-1e7d-701d-838a-073a4af232c9",
-        "slug": null,
+        "slug": "thronebreaker-the-witcher-tales",
         "title": "Thronebreaker - The Witcher Tales",
-        "url": "https://isthereanydeal.com/game/018d937f-1e7d-701d-838a-073a4af232c9/info/",
+        "url": "https://isthereanydeal.com/game/thronebreaker-the-witcher-tales/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 4.29,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/thronebreaker-the-witcher-tales-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 79,
+        "value": 19.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/973760/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 19.99
       },
-      "discount_pct": 79,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -4940,14 +4938,14 @@
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 27.09,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/titan-quest-ii-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 23,
+        "value": 34.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1154030/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 34.99
       },
-      "discount_pct": 23,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -4971,9 +4969,9 @@
       },
       "itad": {
         "game_id": "01930c4f-a214-7331-9624-5f742d26de0f",
-        "slug": null,
+        "slug": "titans-of-the-past",
         "title": "Titans of the Past",
-        "url": "https://isthereanydeal.com/game/01930c4f-a214-7331-9624-5f742d26de0f/info/",
+        "url": "https://isthereanydeal.com/game/titans-of-the-past/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -5022,9 +5020,9 @@
       },
       "itad": {
         "game_id": "018d937e-f54c-7379-a57f-9ab6c840b0cd",
-        "slug": null,
+        "slug": "tom-clancys-rainbow-six-vegas-2",
         "title": "Tom Clancy's Rainbow Six Vegas 2",
-        "url": "https://isthereanydeal.com/game/018d937e-f54c-7379-a57f-9ab6c840b0cd/info/",
+        "url": "https://isthereanydeal.com/game/tom-clancys-rainbow-six-vegas-2/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -5073,9 +5071,9 @@
       },
       "itad": {
         "game_id": "018d937f-7469-73b3-bed8-6a5f16ca630b",
-        "slug": null,
+        "slug": "tormented-souls-2",
         "title": "Tormented Souls 2",
-        "url": "https://isthereanydeal.com/game/018d937f-7469-73b3-bed8-6a5f16ca630b/info/",
+        "url": "https://isthereanydeal.com/game/tormented-souls-2/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -5124,9 +5122,9 @@
       },
       "itad": {
         "game_id": "018d937f-69a8-7043-88b4-798b05e6ce7a",
-        "slug": null,
+        "slug": "undisputed",
         "title": "Undisputed",
-        "url": "https://isthereanydeal.com/game/018d937f-69a8-7043-88b4-798b05e6ce7a/info/",
+        "url": "https://isthereanydeal.com/game/undisputed/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -5186,22 +5184,22 @@
       },
       "itad": {
         "game_id": "018d937f-012d-71fb-85a9-d52a4908f364",
-        "slug": null,
+        "slug": "vagrus-the-riven-realms",
         "title": "Vagrus - The Riven Realms",
-        "url": "https://isthereanydeal.com/game/018d937f-012d-71fb-85a9-d52a4908f364/info/",
+        "url": "https://isthereanydeal.com/game/vagrus-the-riven-realms/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 1,
       "best_price": {
-        "value": 19.79,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/vagrus-the-riven-realms-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 34,
+        "value": 29.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/909660/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 29.99
       },
-      "discount_pct": 34,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -5254,9 +5252,9 @@
       },
       "itad": {
         "game_id": "0197379a-d58a-730c-9ad6-6254854ee865",
-        "slug": null,
+        "slug": "vital-shell",
         "title": "Vital Shell",
-        "url": "https://isthereanydeal.com/game/0197379a-d58a-730c-9ad6-6254854ee865/info/",
+        "url": "https://isthereanydeal.com/game/vital-shell/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -5305,18 +5303,18 @@
       },
       "itad": {
         "game_id": "018d937f-6ee9-706e-b845-f7a76a5f1707",
-        "slug": null,
+        "slug": "whisper-mountain-outbreak",
         "title": "Whisper Mountain Outbreak",
-        "url": "https://isthereanydeal.com/game/018d937f-6ee9-706e-b845-f7a76a5f1707/info/",
+        "url": "https://isthereanydeal.com/game/whisper-mountain-outbreak/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
         "value": 7.99,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/whisper-mountain-outbreak-pc-steam",
-        "detail": "Standard",
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/1953230/",
+        "detail": "current",
         "discount_pct": null,
         "msrp": 7.99
       },
@@ -5344,9 +5342,9 @@
       },
       "itad": {
         "game_id": "018f16ca-98da-704f-9c58-9dbee6ad9df8",
-        "slug": null,
+        "slug": "whispers-of-the-eyeless",
         "title": "Whispers of the Eyeless",
-        "url": "https://isthereanydeal.com/game/018f16ca-98da-704f-9c58-9dbee6ad9df8/info/",
+        "url": "https://isthereanydeal.com/game/whispers-of-the-eyeless/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -5395,22 +5393,22 @@
       },
       "itad": {
         "game_id": "018e61f7-61a7-719b-ae98-23d203b643d0",
-        "slug": null,
+        "slug": "worshippers-of-cthulhu",
         "title": "Worshippers of Cthulhu",
-        "url": "https://isthereanydeal.com/game/018e61f7-61a7-719b-ae98-23d203b643d0/info/",
+        "url": "https://isthereanydeal.com/game/worshippers-of-cthulhu/info/",
         "best_now": null,
         "historical_low": null
       },
       "dlc_count": 0,
       "best_price": {
-        "value": 8.49,
-        "source": "loaded.com",
-        "url": "https://www.loaded.com/worshippers-of-cthulhu-pc-steam",
-        "detail": "Standard",
-        "discount_pct": 66,
+        "value": 24.99,
+        "source": "Steam",
+        "url": "https://store.steampowered.com/app/2807150/",
+        "detail": "current",
+        "discount_pct": null,
         "msrp": 24.99
       },
-      "discount_pct": 66,
+      "discount_pct": null,
       "alert_hit": false,
       "alert_target": null
     },
@@ -5446,9 +5444,9 @@
       },
       "itad": {
         "game_id": "018d937f-309b-7383-bdfd-4f95a8566683",
-        "slug": null,
+        "slug": "xenonauts-2",
         "title": "Xenonauts 2",
-        "url": "https://isthereanydeal.com/game/018d937f-309b-7383-bdfd-4f95a8566683/info/",
+        "url": "https://isthereanydeal.com/game/xenonauts-2/info/",
         "best_now": null,
         "historical_low": null
       },
@@ -5485,9 +5483,9 @@
       },
       "itad": {
         "game_id": "0199e750-6f4b-715e-a94d-84c4b327fcc8",
-        "slug": null,
+        "slug": "zombie-diner-simulator",
         "title": "Zombie Diner Simulator",
-        "url": "https://isthereanydeal.com/game/0199e750-6f4b-715e-a94d-84c4b327fcc8/info/",
+        "url": "https://isthereanydeal.com/game/zombie-diner-simulator/info/",
         "best_now": null,
         "historical_low": null
       },
